@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer | BUP CSE
 
-I am a detail-oriented developer specializing in Java and algorithmic solutions. Currently pursuing my B.Sc. in Computer Science and Engineering,. I love building tools that solve real-world problems, from financial tracking to academic organization.
+I am a detail-oriented developer specializing in Java and algorithmic solutions. Currently pursuing my B.Sc. in Computer Science and Engineering, I love building tools that solve real-world problems, from financial tracking to academic organization.
 
 ---
 
@@ -19,11 +19,20 @@ I am a detail-oriented developer specializing in Java and algorithmic solutions.
 
 ### 🚀 Featured Projects
 
-* **Study Leveling (Java)** – An optimized study planning tool utilizing the **Knapsack Algorithm** to maximize learning efficiency within time constraints.
+* **Study Leveling (Java)** – An optimized study planning tool utilizing the **Knapsack Algorithm** to maximize learning efficiency.
 * **Student Assignment Tracker (Java)** – A specialized desktop application designed to streamline student workflows and deadline management.
-* **Smart Expense Tracker (Java)** – A robust financial tool built to help users monitor spending habits and manage personal budgets effectively.
-* **Study Tracker System (C)** – A fundamental system designed to log study hours and monitor academic progress through a command-line interface.
-* **Fashion Mart (Web)** – A front-end e-commerce concept built using **HTML, CSS, and JavaScript** focusing on responsive design and user experience.
+* **Smart Expense Tracker (Java)** – A robust financial tool built to help users monitor spending habits and manage personal budgets.
+* **Study Tracker System (C)** – A fundamental system designed to log study hours and monitor academic progress.
+* **Fashion Mart (Web)** – A front-end e-commerce concept built using **HTML, CSS, and JavaScript**.
+
+---
+
+### 📽️ Content Creation & Leadership
+
+* **Founder of IPlayPES YouTube Channel** (2023 – Present)
+    * Managing a gaming community of **80,000+ subscribers**, focusing on high-quality video production and digital engagement.
+* **Class Representative (CR)** | BUP (2024 – 2025)
+    * Handling student-faculty coordination and organizational tasks for the CSE department.
 
 ---
 
@@ -39,13 +48,9 @@ I am a detail-oriented developer specializing in Java and algorithmic solutions.
 
 ---
 
-
-
-
----
-
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-junayet)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IPlayPES)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1E7Y5DmkBq/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_junayet)
