@@ -41,12 +41,6 @@ I am a detail-oriented developer specializing in Java and algorithmic solutions.
 
 
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=visual_studio_code" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&theme=visual_studio_code" alt="Top Languages" height="150" />
-</p>
 
 ---
 
