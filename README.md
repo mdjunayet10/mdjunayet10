@@ -1,4 +1,4 @@
-# Hi there, I'm Md Junayet. I am studying Computer Science & Engineering at BUP from 2023.👋
+# Hi there, I'm Md Junayet👋
 
 ### 👨‍💻 Software Developer
 
