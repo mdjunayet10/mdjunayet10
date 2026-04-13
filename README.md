@@ -9,11 +9,11 @@ I am a detail-oriented developer specializing in Java and algorithmic solutions.
 ### 🎓 Education
 
 * **B.Sc. in Computer Science & Engineering** | Bangladesh University of Professionals (BUP) 
-    * *2023 – Present* | **CGPA: 3.81**
+    * *2023 – Present* | **CGPA: 3.81/4.00**
 * **Higher Secondary Certificate (HSC)** | St. Joseph Higher Secondary School
-    * *2020 – 2022* | **GPA: 5.00**
+    * *2020 – 2022* | **GPA: 5.00/5.00**
 * **Secondary School Certificate (SSC)** | Monipur High School & College
-    * *2010 – 2019* | **GPA: 5.00**
+    * *2010 – 2019* | **GPA: 5.00/5.00**
 
 ---
 
