@@ -36,7 +36,7 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 [![Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### ⚙️ Tools & Workflow
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij,ubuntu)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,ubuntu)](https://skillicons.dev)
 
 </div>
 
