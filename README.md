@@ -1,35 +1,36 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There!+👋;I'm+Md+Junayet;CSE+Student+%7C+Java+Developer;YouTuber+%7C+80K%2B+Subscribers;Always+Learning+%26+Building" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There!;I'm+Md+Junayet;CSE+Student+%7C+Java+Developer;YouTuber+%7C+80K%2B+Subscribers;Always+Learning+and+Building" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdjunayet10&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Science & Engineering (CSE) Student**  
-🏫 **Bangladesh University of Professionals (BUP)**  
+🎓 **CSE Student** at **Bangladesh University of Professionals (BUP)**  
 💻 **Java Developer | Problem Solver | Software Enthusiast**  
-🎮 **Individual Owner of YouTube Channel – IPlayPES (80K+ Subscribers)**  
+🎮 **Owner of YouTube Channel – IPlayPES (80K+ Subscribers)**  
 
-I am passionate about **software development, system design, and problem solving**.  
-Alongside programming, I actively manage a **large YouTube gaming community**, which has strengthened my **discipline, consistency, creativity, and analytical skills**.
+I am passionate about **software development, clean code, and system design**.  
+Alongside programming, I manage a large YouTube gaming community, which has helped me develop **discipline, consistency, creativity, analytics thinking, and leadership skills**.
 
 ---
 
 ## 🎥 Content Creator Experience
 
-📺 **YouTube Channel: IPlayPES**
-- 👤 Individual Owner & Manager
-- 👥 **80,000+ Subscribers**
-- 🎮 PES / eFootball Content
-- 📊 Analytics-driven growth strategy
+📺 **YouTube: IPlayPES**
+- 👤 Individual owner & manager
+- 👥 **80,000+ subscribers**
+- 🎮 PES / eFootball content
+- 📊 Audience analytics & growth strategy
 - 🧠 Skills gained:
-  - Branding & digital presence
+  - Branding & digital marketing
   - Audience engagement
-  - Consistency & content planning
-  - Data analysis & optimization
+  - Content consistency
+  - Data-driven improvement
 
 ---
 
@@ -49,53 +50,47 @@ Alongside programming, I actively manage a **large YouTube gaming community**, w
 
 ### 👨‍💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css" />
 </p>
-
----
 
 ### 🌐 Web Technologies
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
----
 
 ### 🧰 Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,netbeans,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,netbeans,mysql,linux" />
 </p>
 
 ---
 
 ## 💼 Projects
 
-- 📘 **Study Leveling** – Java-based study planning application  
-- 📝 **Student Assignment Tracker** – Desktop app for managing tasks  
-- 💰 **Smart Expense Tracker** – Java personal finance system  
-- ⏱ **Study Tracker System (C)** – Console-based tracking system  
-- 🛍 **Fashion Mart** – Frontend e-commerce concept  
-
-➡️ *Explore pinned repositories below.*
+- 📘 **Study Leveling** – Java-based study planning system  
+- 📝 **Student Assignment Tracker** – Desktop task manager  
+- 💰 **Smart Expense Tracker** – Java finance application  
+- ⏱ **Study Tracker System (C)** – Console-based system  
+- 🛍 **Fashion Mart** – Frontend e-commerce project  
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdjunayet10&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdjunayet10&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -103,7 +98,15 @@ Alongside programming, I actively manage a **large YouTube gaming community**, w
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mdjunayet10&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=mdjunayet10&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdjunayet10&theme=react-dark" />
 </p>
 
 ---
@@ -111,33 +114,31 @@ Alongside programming, I actively manage a **large YouTube gaming community**, w
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/md-junayet-24290927a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/share/1E7Y5DmkBq">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/md-junayet-24290927a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/1E7Y5DmkBq">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ✨ Fun Facts
+## ✨ Interests
 
-- 🎮 Gamer & developer
-- ☕ Tea + Code = Productivity
-- 🚀 Focused on long-term growth
-- 📚 Always learning something new
+- 🎮 Gaming & Content Creation
+- 💻 Software Engineering
+- 🧠 Problem Solving
+- 📊 Analytics & Growth
+- 🚀 Continuous Learning
 
 ---
 
 ⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories and connect with me.
+Let’s build something awesome 🚀
