@@ -1,56 +1,137 @@
-# Hi there, I'm Md Junayet 👋
+# 👋 Hi, I'm Md Junayet
 
-### 👨‍💻 Software Engineer | BUP CSE
+### 🎓 CSE Student | 💻 Java Developer | 🎮 Content Creator | 🚀 Software Enthusiast
 
-I am a detail-oriented developer specializing in Java and algorithmic solutions. Currently pursuing my B.Sc. in Computer Science and Engineering, I love building tools that solve real-world problems, from financial tracking to academic organization.
-
----
-
-### 🎓 Education
-
-* **B.Sc. in Computer Science & Engineering** | Bangladesh University of Professionals (BUP) 
-    * *2023 – Present* | **CGPA: 3.81/4.00**
-* **Higher Secondary Certificate (HSC)** | St. Joseph Higher Secondary School
-    * *2020 – 2022* | **GPA: 5.00/5.00**
-* **Secondary School Certificate (SSC)** | Monipur High School & College
-    * *2010 – 2019* | **GPA: 5.00/5.00**
+I am a passionate **Computer Science & Engineering (CSE) student** with strong interests in **software development, problem solving, and system design**.  
+Alongside programming, I am also a **successful YouTube content creator**, managing a large gaming community.
 
 ---
 
-### 🚀 Featured Projects
+## 🧑‍💻 About Me
 
-* **Study Leveling (Java)** – An optimized study planning tool utilizing the **Knapsack Algorithm** to maximize learning efficiency.
-* **Student Assignment Tracker (Java)** – A specialized desktop application designed to streamline student workflows and deadline management.
-* **Smart Expense Tracker (Java)** – A robust financial tool built to help users monitor spending habits and manage personal budgets.
-* **Study Tracker System (C)** – A fundamental system designed to log study hours and monitor academic progress.
-* **Fashion Mart (Web)** – A front-end e-commerce concept built using **HTML, CSS, and JavaScript**.
-
----
-
-### 📽️ Content Creation & Leadership
-
-* **Founder of IPlayPES YouTube Channel** (2023 – Present)
-    * Managing a gaming community of **80,000+ subscribers**, focusing on high-quality video production and digital engagement.
-* **Class Representative (CR)** | BUP (2024 – 2025)
-    * Handling student-faculty coordination and organizational tasks for the CSE department.
+- 🎓 Studying **Computer Science & Engineering (CSE)** at **Bangladesh University of Professionals (BUP)**
+- 💻 Strong focus on **Java & Object-Oriented Programming**
+- 🧠 Solid foundation in **Data Structures, Algorithms & Core CS concepts**
+- 🎮 Owner & Manager of **IPlayPES**, a YouTube channel with **~80,000 subscribers**
+- 🌱 Currently learning **advanced Java, backend development & system design**
+- 🎯 Career goal: Become a professional **Software Engineer**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🎥 Content Creation & Media Experience
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### 📺 YouTube Channel: **IPlayPES**
+- 👤 **Individual Owner & Content Creator**
+- 👥 **~80,000 Subscribers**
+- 🎮 Focused on **PES / eFootball gaming content**
+- 📈 Experience in:
+  - Audience growth & engagement
+  - Content planning & consistency
+  - Branding & channel management
+  - Analytics-driven improvement
+
+> Managing a large YouTube channel has strengthened my **discipline, creativity, communication skills, and long-term consistency** — all valuable traits in software engineering.
 
 ---
 
-### 📫 Let's Connect!
+## 🛠️ Skills & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-junayet)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IPlayPES)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1E7Y5DmkBq/?mibextid=wwXIfr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_junayet)
+### 👨‍💻 Programming Languages
+- **Java**
+- **C**
+- **C++**
+- **Python**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+---
+
+### 📚 Computer Science Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- Software Engineering
+- Computer Networks
+- Problem Solving & Logical Thinking
+
+---
+
+### 🌐 Web Technologies
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
+- Basic Frontend Development
+
+---
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- IntelliJ IDEA
+- VS Code
+- Eclipse
+- NetBeans
+- MySQL
+- Linux (Basic)
+- Windows
+
+---
+
+## 💼 Projects
+
+Some of my notable academic and personal projects:
+
+- 📘 **Study Leveling**  
+  Java-based application to help students plan and track study progress.
+
+- 📝 **Student Assignment Tracker**  
+  Desktop application for managing assignments and deadlines.
+
+- 💰 **Smart Expense Tracker**  
+  Java application for tracking daily expenses and budgets.
+
+- ⏱ **Study Tracker System (C)**  
+  Console-based system for logging study hours.
+
+- 🛍 **Fashion Mart**  
+  Front-end e-commerce concept using HTML, CSS, and JavaScript.
+
+➡️ *More projects are available in my repositories below.*
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mdjunayet10&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn**: https://www.linkedin.com/in/md-junayet-24290927a  
+- 📺 **YouTube (IPlayPES)**: https://www.youtube.com/  
+- 📘 **Facebook**: https://www.facebook.com/share/1E7Y5DmkBq  
+- 📷 **Instagram**: https://www.instagram.com/  
+
+---
+
+## ✨ Fun Facts
+
+- 🎮 Balancing **coding & content creation**
+- 💡 Love solving logical problems
+- 🚀 Always eager to learn new technologies
+- ☕ Code + Tea = Productivity
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
