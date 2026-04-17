@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name        : Md Junayet
+name        : Md Junayet Hossain Mohit
 username    : mdjunayet10
 role        : Software Developer | Gaming Youtuber
 education   : BSc in Computer Science & Engineering (2023–2027)
