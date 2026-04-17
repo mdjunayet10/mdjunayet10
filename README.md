@@ -17,11 +17,11 @@
 ```yaml
 name        : Md Junayet
 username    : mdjunayet10
-role        : CSE Student | Java Developer
+role        : Software Developer | Gaming Youtuber
 education   : BSc in Computer Science & Engineering (2023–2027)
 university  : Bangladesh University of Professionals (BUP)
-focus       : OOP • DSA • Software Engineering
-youtube     : IPlayPES (80K+ Subscribers)
+focus       : Software Engineering & Youtubing
+youtube     : IPlayPES (80,0000+ Subscribers)
 ```
 
 ---
