@@ -119,15 +119,15 @@ youtube     : IPlayPES (80K+ Subscribers)
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+</picture>
 </div>
-
----
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06D6DB,50:7C6FFF,100:09090E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06D6DB,50:7C6FFF,100:09090E&height=120&section=footer"/>
 
 </div>
