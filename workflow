@@ -2,7 +2,7 @@ name: Update YouTube Subscriber Count
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 min
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,45 +16,36 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch live count from SocialCounts API
+      - name: Get subscriber count from YouTube API
         id: subs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL_ID: UCw3J_tpKsFmVPVbWXcKqD_g
         run: |
-          set -e
+          set -euo pipefail
 
-          CHANNEL_ID="UCw3J_tpKsFmVPVbWXcKqD_g"
-          API_URL="https://api.socialcounts.org/youtube-live-subscriber-count/${CHANNEL_ID}"
-
-          echo "Fetching: $API_URL"
-          JSON=$(curl -sS "$API_URL")
+          URL="https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${CHANNEL_ID}&key=${YOUTUBE_API_KEY}"
+          JSON=$(curl -sS "$URL")
           echo "API response: $JSON"
 
-          # Parse count safely using Python (no jq dependency issues)
           COUNT=$(python3 - << 'PY'
-import json,sys
-raw = """$JSON"""
-try:
-    data = json.loads(raw)
-    c = data.get("est_sub")
-    if c is None:
-        c = data.get("count")
-    if c is None:
-        raise ValueError("No est_sub/count in response")
-    print(int(c))
-except Exception as e:
-    print("", end="")
+import json, os
+raw = os.popen('cat <<EOF\n'"$JSON"'\nEOF').read()
+data = json.loads(raw)
+items = data.get("items", [])
+if not items:
+    raise SystemExit("No items returned. Check API key/channel ID/quota.")
+count = items[0]["statistics"]["subscriberCount"]
+print(count)
 PY
 )
-
-          if [ -z "$COUNT" ]; then
-            echo "Could not parse count from SocialCounts API."
-            exit 1
-          fi
 
           FORMATTED=$(python3 - << PY
 n = int("$COUNT")
 print(f"{n:,}")
 PY
 )
+
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
           echo "formatted=$FORMATTED" >> "$GITHUB_OUTPUT"
           echo "Final formatted count: $FORMATTED"
@@ -76,7 +67,7 @@ repl = r"\1" + new_count + r"\3"
 new_text, n = re.subn(pattern, repl, text, flags=re.DOTALL)
 
 if n == 0:
-    raise SystemExit("Marker not found: <!-- YT_SUB_COUNT --> ... <!-- /YT_SUB_COUNT -->")
+    raise SystemExit("Marker not found in README.md")
 
 p.write_text(new_text, encoding="utf-8")
 print(f"Updated README count to: {new_count}")
@@ -86,9 +77,7 @@ PY
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add README.md
           git diff --staged --quiet && echo "No changes to commit" && exit 0
-
           git commit -m "chore: update YouTube subscriber count"
           git push
