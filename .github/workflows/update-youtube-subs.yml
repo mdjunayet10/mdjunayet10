@@ -24,31 +24,41 @@ jobs:
         run: |
           set -euo pipefail
 
+          if [ -z "${YOUTUBE_API_KEY:-}" ]; then
+            echo "Missing required secret: YOUTUBE_API_KEY. Configure it in repository Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
           URL="https://www.googleapis.com/youtube/v3/channels?part=statistics&id=${CHANNEL_ID}&key=${YOUTUBE_API_KEY}"
-          JSON="$(curl -fsSL "$URL")"
-          echo "$JSON" > yt.json
+          curl -fsS --retry 3 --retry-delay 2 "$URL" -o yt.json
 
           COUNT="$(python3 - << 'PY'
 import json
-with open("yt.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
+from pathlib import Path
 
-items = data.get("items", [])
-if not items:
-    raise SystemExit("No items returned. Check API key, channel ID, or quota.")
+data = json.loads(Path("yt.json").read_text(encoding="utf-8"))
+items = data.get("items")
+if not isinstance(items, list) or not items:
+    raise SystemExit("YouTube API response did not include items[0].")
 
-count = items[0].get("statistics", {}).get("subscriberCount")
+stats = items[0].get("statistics", {})
+count = stats.get("subscriberCount")
 if count is None:
-    raise SystemExit("subscriberCount not found in API response.")
+    raise SystemExit("YouTube API response missing statistics.subscriberCount.")
 
-print(count)
+try:
+    value = int(str(count))
+except ValueError as exc:
+    raise SystemExit(f"Invalid subscriberCount value: {count!r}") from exc
+
+print(value)
 PY
-)"
+          )"
           FORMATTED="$(python3 - << PY
 n = int("$COUNT")
 print(f"{n:,}")
 PY
-)"
+          )"
 
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
           echo "formatted=$FORMATTED" >> "$GITHUB_OUTPUT"
@@ -69,7 +79,7 @@ new_count = os.environ["NEW_COUNT"]
 
 pattern = r"(<!-- YT_SUB_COUNT -->)(.*?)(<!-- /YT_SUB_COUNT -->)"
 replacement = r"\1" + new_count + r"\3"
-new_text, n = re.subn(pattern, replacement, text, flags=re.DOTALL)
+new_text, n = re.subn(pattern, replacement, text, count=1, flags=re.DOTALL)
 
 if n == 0:
     raise SystemExit("Marker not found: <!-- YT_SUB_COUNT -->...<!-- /YT_SUB_COUNT -->")
@@ -78,9 +88,9 @@ p.write_text(new_text, encoding="utf-8")
 print(f"Updated README count to: {new_count}")
 PY
 
-      - name: Commit and push
+      - name: Commit and push if README changed
         run: |
-          set -e
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
