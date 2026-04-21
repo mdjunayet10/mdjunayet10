@@ -1,12 +1,11 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=MD%20JUNAYET&section=header&animation=twinkling&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20•%20YouTuber%20&descAlignY=65"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=MD%20JUNAYET&section=header&animation=twinkling&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20•%20YouTuber&descAlignY=65"/>
 
-<br/>
+  <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdjunayet10&label=Profile+Views&style=for-the-badge&color=7C6FFF)
-[![Followers](https://img.shields.io/github/followers/mdjunayet10?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/mdjunayet10)
-[![Stars](https://img.shields.io/github/stars/mdjunayet10?label=Total+Stars&style=for-the-badge&color=06D6DB)](https://github.com/mdjunayet10)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=mdjunayet10&label=Profile+Views&style=for-the-badge&color=7C6FFF)
+  [![Followers](https://img.shields.io/github/followers/mdjunayet10?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/mdjunayet10)
+  [![Stars](https://img.shields.io/github/stars/mdjunayet10?label=Total+Stars&style=for-the-badge&color=06D6DB)](https://github.com/mdjunayet10)
 </div>
 
 ---
@@ -16,11 +15,11 @@
 ```yaml
 name        : Md Junayet Hossain Mohit
 username    : mdjunayet10
-role        : Software Developer | Gaming Youtuber
+role        : Software Developer | Gaming YouTuber
 education   : BSc in Computer Science & Engineering (2023–2027)
 university  : Bangladesh University of Professionals (BUP)
-focus       : Software Engineering & Youtubing
-youtube     : IPlayPES (80,0000+ Subscribers)
+focus       : Software Engineering & YouTube Content Creation
+youtube     : IPlayPES (79K+ Subscribers)
 ```
 
 ---
@@ -45,10 +44,8 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -56,9 +53,7 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -66,17 +61,13 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 ## 🏆 Achievements & Summary
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=tokyonight" width="90%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=tokyonight" width="90%"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=tokyonight" width="32%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=tokyonight" width="32%"/>
 </div>
 
 ---
@@ -84,13 +75,10 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdjunayet10&theme=tokyo-night&hide_border=true"/>
-
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdjunayet10&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
-
 
 ## 🎮 YouTube Channel
 
@@ -100,20 +88,20 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 🎮 Gaming • PES • eFootball Content  
 🔗 **Channel Link:** [youtube.com/@iplaypesofficial](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_)
 
-🔴 **Live Subscriber Count:**  
-<img src="https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?style=for-the-badge&logo=youtube&logoColor=white&label=Live%20Subscribers&color=FF0000" alt="YouTube live subscriber count"/>
+🔴 **Subscriber Count:**  
+<img src="https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000" alt="YouTube subscriber count"/>
 
 </div>
 
 ---
-
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-red?style=for-the-badge&logo=youtube)](http://www.youtube.com/@IPlayPesOfficial)
+[![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-red?style=for-the-badge&logo=youtube)](https://youtube.com/@iplaypesofficial)
 [![GitHub](https://img.shields.io/badge/GitHub-mdjunayet10-09090E?style=for-the-badge&logo=github)](https://github.com/mdjunayet10)
-[![Email](https://img.shields.io/badge/Email-hossainjunayet1@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mdjunayet10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mdjunayet10%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mdjunayet10@gmail.com)
 
 </div>
 
@@ -122,15 +110,13 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 ## 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06D6DB,50:7C6FFF,100:09090E&height=120&section=footer"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06D6DB,50:7C6FFF,100:09090E&height=120&section=footer"/>
 </div>
