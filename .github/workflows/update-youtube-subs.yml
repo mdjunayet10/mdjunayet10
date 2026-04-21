@@ -25,7 +25,7 @@ jobs:
           set -euo pipefail
 
           if [ -z "${YOUTUBE_API_KEY:-}" ]; then
-            echo "Missing required secret: YOUTUBE_API_KEY"
+            echo "Missing required secret: YOUTUBE_API_KEY. Configure it in repository Settings > Secrets and variables > Actions."
             exit 1
           fi
 
