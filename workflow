@@ -2,7 +2,7 @@ name: Update YouTube Subscriber Count
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+    - cron: "*/10 * * * *"   # every 10 min
   workflow_dispatch:
 
 permissions:
@@ -16,57 +16,73 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch subscriber count from SocialCounts
+      - name: Fetch live count from SocialCounts API
         id: subs
         run: |
+          set -e
+
           CHANNEL_ID="UCw3J_tpKsFmVPVbWXcKqD_g"
-          URL="https://socialcounts.org/youtube-live-subscriber-count/${CHANNEL_ID}"
+          API_URL="https://api.socialcounts.org/youtube-live-subscriber-count/${CHANNEL_ID}"
 
-          # Fetch page HTML
-          HTML=$(curl -sL "$URL")
+          echo "Fetching: $API_URL"
+          JSON=$(curl -sS "$API_URL")
+          echo "API response: $JSON"
 
-          # Try to extract count like 78,859 from JSON/script content
-          COUNT=$(echo "$HTML" | grep -oE '"count":[0-9]+' | head -n1 | grep -oE '[0-9]+')
+          # Parse count safely using Python (no jq dependency issues)
+          COUNT=$(python3 - << 'PY'
+import json,sys
+raw = """$JSON"""
+try:
+    data = json.loads(raw)
+    c = data.get("est_sub")
+    if c is None:
+        c = data.get("count")
+    if c is None:
+        raise ValueError("No est_sub/count in response")
+    print(int(c))
+except Exception as e:
+    print("", end="")
+PY
+)
 
-          # Fallback: look for large comma-formatted number in page
           if [ -z "$COUNT" ]; then
-            RAW=$(echo "$HTML" | grep -oE '[0-9]{1,3}(,[0-9]{3})+' | head -n1)
-            COUNT=$(echo "$RAW" | tr -d ',')
-          fi
-
-          if [ -z "$COUNT" ]; then
-            echo "Could not parse subscriber count"
+            echo "Could not parse count from SocialCounts API."
             exit 1
           fi
 
-          # Format with commas
-          FORMATTED=$(printf "%'d\n" "$COUNT" 2>/dev/null || echo "$COUNT")
-          echo "formatted=$FORMATTED" >> $GITHUB_OUTPUT
-          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          FORMATTED=$(python3 - << PY
+n = int("$COUNT")
+print(f"{n:,}")
+PY
+)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "formatted=$FORMATTED" >> "$GITHUB_OUTPUT"
+          echo "Final formatted count: $FORMATTED"
 
       - name: Update README marker
+        env:
+          NEW_COUNT: ${{ steps.subs.outputs.formatted }}
         run: |
           python3 - << 'PY'
-          import re
-          from pathlib import Path
+import os, re
+from pathlib import Path
 
-          readme = Path("README.md")
-          text = readme.read_text(encoding="utf-8")
+p = Path("README.md")
+text = p.read_text(encoding="utf-8")
+new_count = os.environ["NEW_COUNT"]
 
-          new_count = "${{ steps.subs.outputs.formatted }}"
-          pattern = r"(<!-- YT_SUB_COUNT -->)(.*?)(<!-- /YT_SUB_COUNT -->)"
-          repl = r"\1" + new_count + r"\3"
+pattern = r"(<!-- YT_SUB_COUNT -->)(.*?)(<!-- /YT_SUB_COUNT -->)"
+repl = r"\1" + new_count + r"\3"
+new_text, n = re.subn(pattern, repl, text, flags=re.DOTALL)
 
-          new_text, n = re.subn(pattern, repl, text, flags=re.DOTALL)
+if n == 0:
+    raise SystemExit("Marker not found: <!-- YT_SUB_COUNT --> ... <!-- /YT_SUB_COUNT -->")
 
-          if n == 0:
-              raise SystemExit("Marker not found in README.md")
+p.write_text(new_text, encoding="utf-8")
+print(f"Updated README count to: {new_count}")
+PY
 
-          readme.write_text(new_text, encoding="utf-8")
-          print(f"Updated subscriber count to {new_count}")
-          PY
-
-      - name: Commit changes
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
