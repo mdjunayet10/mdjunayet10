@@ -101,7 +101,7 @@ youtube     : IPlayPES (79K+ Subscribers)
 
 [![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-red?style=for-the-badge&logo=youtube)](https://youtube.com/@iplaypesofficial)
 [![GitHub](https://img.shields.io/badge/GitHub-mdjunayet10-09090E?style=for-the-badge&logo=github)](https://github.com/mdjunayet10)
-[![Email](https://img.shields.io/badge/Email-mdjunayet10%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mdjunayet10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mdjunayet10%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:mithu.bu.bd@gmail.com)
 
 </div>
 
