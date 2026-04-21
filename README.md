@@ -98,11 +98,8 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 🎥 **IPlayPES**  
 🎮 Gaming • PES • eFootball Content  
 
----
-
-### 🔴 Live Subscriber Count
-
-<img src="https://livecounts.io/embed/youtube-live-subscriber-count/UCw3J_tpKsFmVPVbWXcKqD_g" />
+🔴 **Live Subscriber Count:**  
+https://socialcounts.org/youtube-live-subscriber-count/UCw3J_tpKsFmVPVbWXcKqD_g
 
 </div>
 ---
