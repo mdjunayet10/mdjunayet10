@@ -91,17 +91,43 @@ youtube     : IPlayPES (80,0000+ Subscribers)
 
 ---
 
-## 🎮 YouTube Channel
+## 🎬 YouTube Dashboard
 
 <div align="center">
 
-🎥 **IPlayPES**  
-🎮 Gaming • PES • eFootball Content  
+### 🎥 IPlayPES Official
 
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?style=for-the-badge&color=red)
+🚀 Gaming • PES • eFootball Content Creator
+
+---
+
+### 🔴 Live Stats
+<a href="https://socialcounts.org/youtube-live-subscriber-count/UCw3J_tpKsFmVPVbWXcKqD_g">
+  🔴 View Live Subscriber Count
+</a>
+
+---
+
+### 📊 Channel Analytics
+
+![Subscribers](https://img.shields.io/badge/Subscribers-Live%20Count-red?style=for-the-badge&logo=youtube)
+
+![Channel](https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+---
+
+### 📈 Growth Snapshot
+
+<img src="https://img.shields.io/badge/Status-Active%20Creator-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Uploads-Consistent-blue?style=for-the-badge"/>
+
+---
+
+### 🎯 Channel Link
+👉 https://www.youtube.com/@IPlayPesOfficial
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
