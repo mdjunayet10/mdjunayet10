@@ -14,12 +14,11 @@
 
 ```yaml
 name        : Md Junayet Hossain Mohit
-username    : mdjunayet10
-role        : Software Developer | Gaming YouTuber
-education   : BSc in Computer Science & Engineering (2023–2027)
-university  : Bangladesh University of Professionals (BUP)
-focus       : Software Engineering & YouTube Content Creation
-youtube     : IPlayPES
+role        : Software Engineer | Content Creator
+education   : BSc in CSE (2023–2027)
+institution : Bangladesh University of Professionals (BUP)
+interests   : Backend Development, Web Technologies, Gaming Content
+platform    : YouTube (@IPlayPES)
 ```
 
 ---
