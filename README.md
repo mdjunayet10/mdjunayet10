@@ -79,17 +79,14 @@ platform    : YouTube (@IPlayPES)
 
 ---
 
-## 🎮 YouTube Channel — IPlayPES
+## 🎮 YouTube Channel 
 
-Content focused on:
-- PES / eFootball gameplay
-- Tips and tutorials
-- Gaming highlights
 
-Channel: https://youtube.com/@iplaypesofficial
-
-Subscribers:
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?style=for-the-badge)
+<div align="center"> 
+🎥 **IPlayPES** 
+🎮 Gaming • PES • eFootball Content 
+🔗 **Channel Link:** [youtube.com/@iplaypesofficial](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_) 
+🔴 **Subscriber Count:** <img src="https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000" alt="YouTube subscriber count"/> </div> 
 
 ---
 
