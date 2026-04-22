@@ -19,7 +19,7 @@ role        : Software Developer | Gaming YouTuber
 education   : BSc in Computer Science & Engineering (2023–2027)
 university  : Bangladesh University of Professionals (BUP)
 focus       : Software Engineering & YouTube Content Creation
-youtube     : IPlayPES (79K+ Subscribers)
+youtube     : IPlayPES
 ```
 
 ---
