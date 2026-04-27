@@ -18,7 +18,7 @@ Role        : Software Engineer | Content Creator
 Education   : BSc in CSE (2023–2027)
 Institution : Bangladesh University of Professionals (BUP)
 Interests   : App Development, Web Development, Gaming Content
-platform    : YouTube (@IPlayPES)
+Platform    : YouTube (@IPlayPES)
 ```
 
 ---
