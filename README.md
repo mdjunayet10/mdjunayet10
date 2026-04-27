@@ -17,7 +17,7 @@ name        : Md Junayet Hossain Mohit
 role        : Software Engineer | Content Creator
 education   : BSc in CSE (2023–2027)
 institution : Bangladesh University of Professionals (BUP)
-interests   : Backend Development, Web Technologies, Gaming Content
+interests   : App Development, Web Development, Gaming Content
 platform    : YouTube (@IPlayPES)
 ```
 
