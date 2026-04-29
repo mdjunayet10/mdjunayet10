@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name        : Md Junayet Hossain Mohit
+Name        : Md. Junayet Hossain Mohit
 Role        : Software Engineer | Content Creator
 Education   : BSC in CSE (2023–2027)
 Institution : Bangladesh University of Professionals (BUP)
