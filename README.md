@@ -15,7 +15,7 @@
 ```yaml
 Name        : Md Junayet Hossain Mohit
 Role        : Software Engineer | Content Creator
-Education   : BSc in CSE (2023–2027)
+Education   : BSC in CSE (2023–2027)
 Institution : Bangladesh University of Professionals (BUP)
 Interests   : App Development, Web Development, Gaming Content
 Platform    : YouTube (@IPlayPES)
