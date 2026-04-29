@@ -15,6 +15,7 @@
 ```yaml
 Name        : Md. Junayet Hossain Mohit
 ID          : 23524202065
+CGPA        : 3.81 (Up to 5th Semester)
 Role        : Software Engineer | Content Creator
 Education   : BSC in CSE (2023–2027)
 Institution : Bangladesh University of Professionals (BUP)
