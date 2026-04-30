@@ -207,7 +207,7 @@ Gaming • PES • eFootball Content
 [![GitHub](https://img.shields.io/badge/GitHub-mdjunayet10-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdjunayet10)
 [![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@iplaypesofficial)
 [![Email](https://img.shields.io/badge/Gmail-mithu.bu.bd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithu.bu.bd@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Page-06D6DB?style=for-the-badge&logo=google-chrome&logoColor=080B14)](https://mdjunayet10.github.io/mdjunayet10/)
+
 
 </div>
 
