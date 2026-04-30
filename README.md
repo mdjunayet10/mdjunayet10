@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════════════════════════════════════
      MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
-     Neon Glass Cyber Theme | Cyan + Purple + Pink
+     Cyber-Luxury Dark Theme | Cyan + Purple + Pink
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ━━━ NEON ANIMATED HEADER BANNER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050810,25:0B1020,50:15162E,75:10172A,100:050810&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&fontAlignY=36&fontSize=42&fontColor=06D6DB&animation=twinkling&stroke=FF61DC&strokeWidth=1.5&desc=Software%20Engineer%20%7C%20Content%20Creator&descAlign=50&descAlignY=58&descSize=17"/>
+<!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050810,30:10172A,60:0B1020,100:050810&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&animation=twinkling&fontColor=06D6DB&fontSize=44&fontAlignY=38&stroke=FF61DC&strokeWidth=2&desc=Software%20Engineer%20%7C%20Content%20Creator&descSize=16&descAlignY=62&descAlign=50"/>
 
 <br/>
 
-<!-- ━━━ CINEMATIC TYPING ANIMATION ━━━ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=900&color=06D6DB&center=true&vCenter=true&width=850&height=45&lines=Software+Engineer+%E2%9A%A1;Flutter+%7C+Firebase+%7C+Web+Development;Building+Study+Leveling+%F0%9F%8E%93;Content+Creator+%40+IPlayPES+%F0%9F%8E%AE;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ━━━ TYPING ANIMATION ━━━ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=06D6DB&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%E2%9A%A1;Flutter+%7C+Firebase+%7C+Web+Development;Building+Study+Leveling+%F0%9F%8E%93;Content+Creator+%40+IPlayPES+%F0%9F%8E%AE;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,34 +20,15 @@
 [![GitHub followers](https://img.shields.io/github/followers/mdjunayet10?label=Followers&style=for-the-badge&color=7C6FFF&logo=github)](https://github.com/mdjunayet10?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mdjunayet10?label=Total%20Stars&style=for-the-badge&color=FF61DC&logo=github)](https://github.com/mdjunayet10)
 
-<br/><br/>
-
-<!-- ━━━ PROFILE HIGHLIGHT CARDS ━━━ -->
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>💻 Software Engineer</h3>
-      <p>Building apps, web projects, and real-world software products.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎓 CSE Student</h3>
-      <p>BSc. in CSE @ Bangladesh University of Professionals.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎮 Content Creator</h3>
-      <p>Creating gaming and eFootball content on IPlayPES.</p>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <br/>
 
-<!-- ━━━ NEON DIVIDER ━━━ -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`whoami`
 
@@ -72,6 +53,10 @@ const MdJunayetHossainMohit = {
 
 <br/>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░  CURRENT STATUS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Current Status
 
 ```yaml
@@ -83,11 +68,13 @@ const MdJunayetHossainMohit = {
 ⚡ Goal                  : Build useful software and publish real products
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░  FEATURED PRODUCT  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🚀 &nbsp;Featured Product
 
@@ -101,14 +88,12 @@ const MdJunayetHossainMohit = {
 
 <br/><br/>
 
-> **A gamified study productivity app that turns study tasks into missions.**
-
-Complete study tasks, earn XP and coins, level up, unlock rewards, compete on leaderboards, and study together using multiplayer rooms.
+A gamified study productivity app where students complete study tasks as missions, earn XP and coins, level up, unlock rewards, compete on leaderboards, and use multiplayer study rooms.
 
 <br/>
 
 [![Live App](https://img.shields.io/badge/Live%20App-Open%20Now-06D6DB?style=for-the-badge&logo=firebase&logoColor=white&labelColor=080B14)](https://study-leveling.web.app)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Public%20Repo-7C6FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14)](https://github.com/mdjunayet10/Study-Leveling-App)
+[![Public Repo](https://img.shields.io/badge/GitHub-Public%20Repo-7C6FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14)](https://github.com/mdjunayet10/Study-Leveling-App)
 [![Android Release](https://img.shields.io/badge/Android-APK%20Release-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=080B14)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
 [![Windows Release](https://img.shields.io/badge/Windows-ZIP%20Release-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=080B14)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
 
@@ -137,9 +122,11 @@ Complete study tasks, earn XP and coins, level up, unlock rewards, compete on le
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
@@ -179,9 +166,11 @@ Complete study tasks, earn XP and coins, level up, unlock rewards, compete on le
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -190,17 +179,19 @@ Complete study tasks, earn XP and coins, level up, unlock rewards, compete on le
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=050810&title_color=06D6DB&icon_color=FF61DC&text_color=FFFFFF&ring_color=7C6FFF"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050810&title_color=06D6DB&text_color=FFFFFF"/>
 
-<br/><br/>
+</div>
 
+<div align="center">
 <img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true&background=050810&stroke=06D6DB&ring=7C6FFF&fire=FF61DC&currStreakLabel=06D6DB&sideLabels=FFFFFF&currStreakNum=FF61DC&sideNums=FFFFFF&dates=8A8FBD&border_radius=12"/>
-
 </div>
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🏆 &nbsp;Achievements & Trophies
 
@@ -208,11 +199,19 @@ Complete study tasks, earn XP and coins, level up, unlock rewards, compete on le
 
 <img src="https://github-profile-trophy.vercel.app/?username=mdjunayet10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=tokyonight" width="90%"/>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=tokyonight" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=tokyonight" width="32%"/>
@@ -222,9 +221,11 @@ Complete study tasks, earn XP and coins, level up, unlock rewards, compete on le
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░  CONTRIBUTION GRAPH  ░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📈 &nbsp;Contribution Activity
 
@@ -236,9 +237,11 @@ Complete study tasks, earn XP and coins, level up, unlock rewards, compete on le
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░  YOUTUBE CHANNEL  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🎮 &nbsp;YouTube Channel
 
@@ -257,9 +260,11 @@ Gaming • PES • eFootball Content
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🤝 &nbsp;Let's Connect
 
@@ -269,40 +274,33 @@ Gaming • PES • eFootball Content
 [![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@iplaypesofficial)
 [![Email](https://img.shields.io/badge/Gmail-mithu.bu.bd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithu.bu.bd@gmail.com)
 
-<br/><br/>
-
-```yaml
-open_to:
-  - App Development Projects
-  - Web Development Projects
-  - Creative Tech Ideas
-  - Collaboration & Learning
-```
-
 </div>
 
 <br/>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7C6FFF,50:06D6DB,100:FF61DC"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🐍 &nbsp;Watch My Contributions Get Eaten
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake.svg">
 </picture>
+
 </div>
 
 <br/>
 
-
-<!-- ━━━ NEON FOOTER ━━━ -->
+<!-- ━━━ FOOTER ━━━ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,35:7C6FFF,65:06D6DB,100:FF61DC&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=22&fontAlignY=70&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6FFF,50:06D6DB,100:050810&height=130&section=footer&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=20&fontAlignY=65&animation=twinkling"/>
 
 </div>
