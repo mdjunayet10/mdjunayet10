@@ -34,7 +34,7 @@
 const MdJunayetHossainMohit = {
   name        : "Md. Junayet Hossain Mohit",
   username    : "mdjunayet10",
-  role        : "Software Developer | App Developer | Content Creator 🚀",
+  role        : "Software Developer | Content Creator 🚀",
   location    : "Bangladesh 🇧🇩",
   education   : "BSc. in CSE @ Bangladesh University of Professionals (2023–2027) 🎓",
   interests   : ["App Development", "Web Development", "Flutter", "Firebase", "Gaming Content"],
