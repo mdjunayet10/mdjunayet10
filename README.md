@@ -211,16 +211,6 @@ Gaming • PES • eFootball Content
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
-
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 &nbsp;Watch My Contributions Get Eaten
