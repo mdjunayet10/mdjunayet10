@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B14,30:10172A,60:080B14,100:050810&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&animation=twinkling&fontColor=06D6DB&fontSize=44&fontAlignY=38&stroke=7C6FFF&strokeWidth=2&desc=Software%20Developer%20%7C%20Flutter%20%E2%80%A2%20Web%20%E2%80%A2%20Content%20Creator&descSize=16&descAlignY=62&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B14,30:10172A,60:080B14,100:050810&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&animation=twinkling&fontColor=06D6DB&fontSize=44&fontAlignY=38&stroke=7C6FFF&strokeWidth=2&desc=Software%20Engineer%20%7C%20Content%20Creator&descSize=16&descAlignY=62&descAlign=50"/>
 
 <br/>
 
