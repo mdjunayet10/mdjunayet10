@@ -189,20 +189,16 @@ A gamified study productivity app where students complete study tasks as mission
 
 <div align="center">
 
-### IPlayPES
+**IPlayPES**
 
 Gaming • PES • eFootball Content
 
-<br/>
+**Channel Link:** https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_
 
-[![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@iplaypesofficial)
-[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYQw9F8jMWXvu8fIhcRsl1w?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000)](https://youtube.com/@iplaypesofficial)
+**Subscriber Count:**  
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYQw9F8jMWXvu8fIhcRsl1w?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000)
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 &nbsp;Let's Connect
 
