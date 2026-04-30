@@ -77,8 +77,9 @@ A gamified study productivity app where students complete study tasks as mission
 [![Live App](https://img.shields.io/badge/Live%20App-Study%20Leveling-06D6DB?style=for-the-badge&logo=firebase&logoColor=white&labelColor=080B14)](https://study-leveling.web.app)
 [![Public Repo](https://img.shields.io/badge/GitHub-Study%20Leveling-7C6FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B14)](https://github.com/mdjunayet10/Study-Leveling-App)
 [![Android Release](https://img.shields.io/badge/Android-APK%20Release-FF61DC?style=for-the-badge&logo=android&logoColor=white&labelColor=080B14)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
+[![Windows Release](https://img.shields.io/badge/Windows-ZIP%20Release-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=080B14)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
 
-<br/><br/>
+<br/>
 
 **Tech Stack**
 
