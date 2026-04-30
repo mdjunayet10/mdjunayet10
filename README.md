@@ -196,7 +196,7 @@ Gaming • PES • eFootball Content
 **Channel Link:** https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_
 
 **Subscriber Count:**  
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYQw9F8jMWXvu8fIhcRsl1w?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000)](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_REAL_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000)](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_)
 
 </div>
 
