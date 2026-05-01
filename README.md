@@ -181,7 +181,7 @@ A gamified study productivity app where students complete study tasks as mission
 
 <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true&background=050810&stroke=06D6DB&ring=7C6FFF&fire=FF61DC&currStreakLabel=06D6DB&sideLabels=FFFFFF&currStreakNum=FF61DC&sideNums=FFFFFF&dates=8A8FBD&border_radius=12"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true&background=050810&stroke=06D6DB&ring=7C6FFF&fire=FF61DC&currStreakLabel=06D6DB&sideLabels=FFFFFF&currStreakNum=FF61DC&sideNums=FFFFFF&dates=8A8FBD&border_radius=12&mode=daily&starting_year=2024&v=2"/>
 
 </div>
 
