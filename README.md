@@ -176,9 +176,13 @@ A gamified study productivity app where students complete study tasks as mission
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=06D6DB&icon_color=FF61DC&text_color=FFFFFF&ring_color=7C6FFF" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050810&title_color=06D6DB&text_color=FFFFFF" />
+<br/><br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=tokyonight" />
 
 <br/><br/>
 
