@@ -176,16 +176,15 @@ A gamified study productivity app where students complete study tasks as mission
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=050810&title_color=06D6DB&icon_color=FF61DC&text_color=FFFFFF&ring_color=7C6FFF"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050810&title_color=06D6DB&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdjunayet10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=06D6DB&icon_color=FF61DC&text_color=FFFFFF&ring_color=7C6FFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunayet10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050810&title_color=06D6DB&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true&background=050810&stroke=06D6DB&ring=7C6FFF&fire=FF61DC&currStreakLabel=06D6DB&sideLabels=FFFFFF&currStreakNum=FF61DC&sideNums=FFFFFF&dates=8A8FBD&border_radius=12&mode=daily&starting_year=2024&v=2"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true&background=050810&stroke=06D6DB&ring=7C6FFF&fire=FF61DC&currStreakLabel=06D6DB&sideLabels=FFFFFF&currStreakNum=FF61DC&sideNums=FFFFFF&dates=8A8FBD" />
 
 </div>
-
-<br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- ░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
