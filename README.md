@@ -176,17 +176,37 @@ A gamified study productivity app where students complete study tasks as mission
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=tokyonight&v=20260503-1" />
+  <img
+    width="90%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=tokyonight&v=20260503-3"
+    alt="GitHub Profile Details"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=tokyonight&v=20260503-1" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=tokyonight&v=20260503-1" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=tokyonight&v=20260503-1" />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=tokyonight&v=20260503-3"
+    alt="Top Languages by Repo"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=tokyonight&v=20260503-3"
+    alt="Top Languages by Commit"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=tokyonight&v=20260503-3"
+    alt="GitHub Stats"
+  />
 
-<br/><br/>
+  <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true&background=050810&stroke=06D6DB&ring=7C6FFF&fire=FF61DC&currStreakLabel=06D6DB&sideLabels=FFFFFF&currStreakNum=FF61DC&sideNums=FFFFFF&dates=8A8FBD&v=20260503-1" />
+  <img
+    width="72%"
+    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=tokyonight&hide_border=true&background=050810&stroke=06D6DB&ring=7C6FFF&fire=FF61DC&currStreakLabel=06D6DB&sideLabels=FFFFFF&currStreakNum=FF61DC&sideNums=FFFFFF&dates=8A8FBD&v=20260503-3"
+    alt="GitHub Streak Stats"
+  />
 
 </div>
 
