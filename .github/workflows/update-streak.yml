@@ -1,0 +1,41 @@
+name: Update streak card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate streak SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: mdjunayet10
+        run: python scripts/generate_streak_svg.py
+
+      - name: Commit updated streak card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- assets/streak.svg; then
+            echo "No streak card changes."
+          else
+            git add assets/streak.svg
+            git commit -m "Update streak card"
+            git push
+          fi
