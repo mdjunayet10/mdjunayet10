@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════
      MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
-     Clean Cyber Dark Theme | Cyan + Violet + Emerald + Amber
+     Clean Cyber Dark Theme | Cyan + Violet + Emerald + Amber + Brand Colors
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -17,8 +17,8 @@
 
 <!-- ━━━ BADGES ROW ━━━ -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mdjunayet10&label=Profile+Views&color=00E5FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/mdjunayet10?label=Followers&style=for-the-badge&color=8B5CF6&logo=github)](https://github.com/mdjunayet10?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/mdjunayet10?label=Total%20Stars&style=for-the-badge&color=FACC15&logo=github)](https://github.com/mdjunayet10)
+[![GitHub followers](https://img.shields.io/github/followers/mdjunayet10?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/mdjunayet10?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/mdjunayet10?label=Total%20Stars&style=for-the-badge&color=FACC15&logo=github&logoColor=black)](https://github.com/mdjunayet10)
 
 <br/><br/>
 
@@ -113,7 +113,7 @@ A gamified study productivity app where students complete study tasks as mission
 <br/>
 
 [![Live App](https://img.shields.io/badge/Live%20App-Open%20Now-22C55E?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117)](https://study-leveling.web.app)
-[![Public Repo](https://img.shields.io/badge/GitHub-Public%20Repo-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App)
+[![Public Repo](https://img.shields.io/badge/GitHub-Public%20Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App)
 [![Android Release](https://img.shields.io/badge/Android-APK%20Release-8B5CF6?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
 [![Windows Release](https://img.shields.io/badge/Windows-ZIP%20Release-FACC15?style=for-the-badge&logo=windows&logoColor=black&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
 
@@ -198,7 +198,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="90%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
     alt="GitHub Profile Details"
   />
 
@@ -206,17 +206,17 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
     alt="Top Languages by Repo"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
     alt="Top Languages by Commit"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
     alt="GitHub Stats"
   />
 
@@ -224,7 +224,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="72%"
-    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260503-cyber-clean-1"
+    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260503-cyber-clean-3"
     alt="GitHub Streak Stats"
   />
 
@@ -281,7 +281,7 @@ Gaming • PES • eFootball Content
 **Channel Link:** https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_
 
 **Subscriber Count:**  
-[![YouTube subscriber count](https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?color=FACC15&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge&labelColor=0D1117)](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_)
+[![YouTube subscriber count](https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?color=FF0000&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge&labelColor=0D1117&cacheSeconds=60)](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_)
 
 </div>
 
@@ -297,9 +297,9 @@ Gaming • PES • eFootball Content
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mdjunayet10-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10)
-[![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-FACC15?style=for-the-badge&logo=youtube&logoColor=black&labelColor=0D1117)](https://youtube.com/@iplaypesofficial)
-[![Email](https://img.shields.io/badge/Gmail-mithu.bu.bd%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mithu.bu.bd@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mdjunayet10-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10)
+[![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://youtube.com/@iplaypesofficial)
+[![Email](https://img.shields.io/badge/Gmail-mithu.bu.bd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mithu.bu.bd@gmail.com)
 
 </div>
 
