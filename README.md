@@ -198,7 +198,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="90%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
     alt="GitHub Profile Details"
   />
 
@@ -206,17 +206,17 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
     alt="Top Languages by Repo"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
     alt="Top Languages by Commit"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260503-cyber-clean-3"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
     alt="GitHub Stats"
   />
 
@@ -224,7 +224,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="72%"
-    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260503-cyber-clean-3"
+    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260504-streak-refresh-1"
     alt="GitHub Streak Stats"
   />
 
