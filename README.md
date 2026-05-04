@@ -56,7 +56,7 @@
 
 ```javascript
 const MdJunayetHossainMohit = {
-  name        : "Md. Junayet Hossain Mohit",
+  Name        : "Md. Junayet Hossain Mohit",
   username    : "mdjunayet10",
   role        : "Software Engineer | CSE Student | Content Creator 🚀",
   location    : "Bangladesh 🇧🇩",
