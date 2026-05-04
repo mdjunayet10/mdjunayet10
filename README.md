@@ -64,7 +64,7 @@ const MdJunayetHossainMohit = {
   Interests   : ["App Development", "Web Development", "Gaming Content"],
   Project     : "Study Leveling — a gamified study productivity app",
   Platform    : "YouTube @IPlayPES 🎮",
-  status      : "Learning · Building · Improving ⚡",
+  Status      : "Learning · Building · Improving ⚡",
   funFact     : "I turn study tasks into missions and code into products 😄"
 };
 ```
