@@ -65,7 +65,7 @@ const MdJunayetHossainMohit = {
   Project     : "Study Leveling — a gamified study productivity app",
   Platform    : "YouTube @IPlayPES 🎮",
   Status      : "Learning · Building · Improving ⚡",
-  funFact     : "I turn study tasks into missions and code into products 😄"
+  Funfact     : "I turn study tasks into missions and code into products 😄"
 };
 ```
 
