@@ -59,7 +59,7 @@ const MdJunayetHossainMohit = {
   Name        : "Md. Junayet Hossain Mohit",
   Username    : "mdjunayet10",
   Role        : "Software Engineer | CSE Student | Content Creator 🚀",
-  location    : "Bangladesh 🇧🇩",
+  Location    : "Bangladesh 🇧🇩",
   education   : "BSc. in CSE @ Bangladesh University of Professionals (2023–2027) 🎓",
   interests   : ["App Development", "Web Development", "Gaming Content"],
   project     : "Study Leveling — a gamified study productivity app",
