@@ -63,7 +63,7 @@ const MdJunayetHossainMohit = {
   education   : "BSc. in CSE @ Bangladesh University of Professionals (2023–2027) 🎓",
   interests   : ["App Development", "Web Development", "Gaming Content"],
   project     : "Study Leveling — a gamified study productivity app",
-  Platform    : "YouTube @IPlayPES 🎮",
+  platform    : "YouTube @IPlayPES 🎮",
   Status      : "Learning · Building · Improving ⚡",
   Funfact     : "I turn study tasks into missions and code into products 😄"
 };
