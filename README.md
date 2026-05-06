@@ -57,7 +57,7 @@
 ```javascript
 const MdJunayetHossainMohit = {
   name        : "Md. Junayet Hossain Mohit",
-  Username    : "mdjunayet10",
+  username    : "mdjunayet10",
   Role        : "Software Engineer | CSE Student | Content Creator 🚀",
   Location    : "Bangladesh 🇧🇩",
   Education   : "BSc. in CSE @ Bangladesh University of Professionals (2023–2027) 🎓",
