@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHU README
+     MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
      Clean Cyber Dark Theme | Cyan + Violet + Emerald + Amber + Brand Colors
 ════════════════════════════════════════════════════════════════ -->
 
