@@ -51,7 +51,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`whoami`
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+  &nbsp;<code>whoami</code>
+</h2>
 
 <div align="center">
 
@@ -63,6 +66,7 @@ const MdJunayetHossainMohit = {
   location    : "Bangladesh 🇧🇩",
   education   : "BSc. in CSE @ Bangladesh University of Professionals (2023–2027) 🎓",
   mainStack   : ["JavaScript", "Node.js", "Express.js", "Firebase", "PostgreSQL"],
+  languages   : ["JavaScript", "C", "C++", "Java"],
   interests   : ["Full-Stack Web Apps", "Backend APIs", "Product Development", "Gaming Content"],
   projects    : ["Career Bridge", "Study Leveling"],
   platform    : "YouTube @IPlayPES 🎮",
@@ -79,7 +83,10 @@ const MdJunayetHossainMohit = {
 <!-- ░░░░░░░░░░░░░░  CURRENT STATUS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Current Status
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
+  &nbsp;Current Status
+</h2>
 
 ```yaml
 🔭 Currently Working On  : Career Bridge and Study Leveling
@@ -98,7 +105,7 @@ const MdJunayetHossainMohit = {
 <!-- ░░░░░░░░░░░░░░  FEATURED PRODUCTS  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🚀 &nbsp;Featured Products
+<h2 align="center">🚀 &nbsp;Featured Products</h2>
 
 <div align="center">
 
@@ -143,7 +150,7 @@ const MdJunayetHossainMohit = {
 <!-- ░░░░░░░░░░░░░░  STUDY LEVELING  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🎓 &nbsp;Study Leveling
+<h2 align="center">🎓 &nbsp;Study Leveling</h2>
 
 <div align="center">
 
@@ -195,23 +202,40 @@ A gamified study productivity app where students complete study tasks as mission
 <!-- ░░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  &nbsp;Tech Arsenal
+</h2>
 
 <div align="center">
 
-### 💻 Core Language
-[![Core Language](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+### 💻 Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=js,c,cpp,java&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-Main%20Language-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117">
+<img src="https://img.shields.io/badge/C-CS%20Fundamentals-00E5FF?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/C%2B%2B-Problem%20Solving-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Java-OOP%20Concepts-FACC15?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0D1117">
+
+<br/><br/>
 
 ### 🌐 Frontend
+
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend
+
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Database & Cloud
+
 [![Database Skills](https://skillicons.dev/icons?i=firebase,postgres,prisma&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Tools & Workflow
+
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,netlify&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -239,7 +263,7 @@ A gamified study productivity app where students complete study tasks as mission
 <!-- ░░░░░░░░░░░░░░  PORTFOLIO FOCUS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🧭 &nbsp;Portfolio Focus
+<h2 align="center">🧭 &nbsp;Portfolio Focus</h2>
 
 <div align="center">
 
@@ -270,7 +294,7 @@ A gamified study productivity app where students complete study tasks as mission
 <!-- ░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📊 &nbsp;GitHub Stats
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
 
@@ -316,7 +340,7 @@ A gamified study productivity app where students complete study tasks as mission
 <!-- ░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🏆 &nbsp;Achievements & Trophies
+<h2 align="center">🏆 &nbsp;Achievements & Trophies</h2>
 
 <div align="center">
 
@@ -332,7 +356,7 @@ A gamified study productivity app where students complete study tasks as mission
 <!-- ░░░░░░░░░░░░░░  CONTRIBUTION GRAPH  ░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📈 &nbsp;Contribution Activity
+<h2 align="center">📈 &nbsp;Contribution Activity</h2>
 
 <div align="center">
 
@@ -348,7 +372,7 @@ A gamified study productivity app where students complete study tasks as mission
 <!-- ░░░░░░░░░░░░░░  YOUTUBE CHANNEL  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🎮 &nbsp;YouTube Channel
+<h2 align="center">🎮 &nbsp;YouTube Channel</h2>
 
 <div align="center">
 
@@ -371,7 +395,7 @@ Gaming • PES • eFootball Content
 <!-- ░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🤝 &nbsp;Let's Connect
+<h2 align="center">🤝 &nbsp;Let's Connect</h2>
 
 <div align="center">
 
@@ -387,7 +411,7 @@ Gaming • PES • eFootball Content
 <!-- ░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🐍 &nbsp;Watch My Contributions Get Eaten
+<h2 align="center">🐍 &nbsp;Watch My Contributions Get Eaten</h2>
 
 <div align="center">
 <picture>
