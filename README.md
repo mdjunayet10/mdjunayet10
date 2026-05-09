@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
-     Clean Cyber Dark Theme | Cyan + Violet + Emerald + Amber + Brand Colors
+     MD. JUNAYET HOSSAIN MOHIT — GITHUB PROFILE README
+     Stack-Clarity Optimized | JavaScript + Node.js + Firebase Focus
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0D1117,35:111827,70:0F172A,100:0D1117&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&animation=twinkling&fontColor=00E5FF&fontSize=44&fontAlignY=38&stroke=8B5CF6&strokeWidth=2&desc=Software%20Engineer%20%7C%20CSE%20Student%20%7C%20Content%20Creator&descSize=16&descAlignY=62&descAlign=50"/>
+<!-- ━━━ HEADER BANNER ━━━ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0D1117,35:111827,70:0F172A,100:0D1117&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&animation=twinkling&fontColor=00E5FF&fontSize=44&fontAlignY=38&stroke=8B5CF6&strokeWidth=2&desc=Full-Stack%20JavaScript%20Developer%20%7C%20Firebase%20Builder%20%7C%20CSE%20Student&descSize=16&descAlignY=62&descAlign=50"/>
 
 <br/>
 
 <!-- ━━━ TYPING ANIMATION ━━━ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%E2%9A%A1;CSE+Student+%F0%9F%8E%93;Flutter+%7C+Firebase+%7C+Web+Development;Building+Study+Leveling+%F0%9F%8E%93;Content+Creator+%40+IPlayPES+%F0%9F%8E%AE;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=760&lines=Full-Stack+JavaScript+Developer+%E2%9A%A1;Node.js+%7C+Express+%7C+Firebase;Building+real-world+web+products+%F0%9F%9A%80;Career+Bridge+%7C+Study+Leveling;Clean+UI+%2B+Practical+Backend+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,20 +22,20 @@
 
 <br/><br/>
 
-<!-- ━━━ POLISHED ROLE CARDS ━━━ -->
+<!-- ━━━ ROLE CARDS ━━━ -->
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>💻 Software Engineer</h3>
-      <p>Building clean, practical, and user-friendly apps for real-world problems.</p>
+      <h3>💻 Full-Stack Developer</h3>
+      <p>Building practical web apps with JavaScript, Node.js, Express, Firebase, and databases.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Product Builder</h3>
+      <p>Turning ideas into useful products with clean UI, real features, and deployable systems.</p>
     </td>
     <td align="center" width="33%">
       <h3>🎓 CSE Student</h3>
-      <p>Learning software development, backend systems, algorithms, and scalable design.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎬 Content Creator</h3>
-      <p>Sharing tech projects, learning journeys, and useful digital content online.</p>
+      <p>Studying software engineering, backend systems, data structures, and scalable design.</p>
     </td>
   </tr>
 </table>
@@ -43,10 +43,6 @@
 </div>
 
 <br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -56,16 +52,27 @@
 
 ```javascript
 const MdJunayetHossainMohit = {
-  name        : "Md. Junayet Hossain Mohit",
-  username    : "mdjunayet10",
-  role        : "Software Engineer | CSE Student | Content Creator 🚀",
-  location    : "Bangladesh 🇧🇩",
-  education   : "BSc. in CSE @ Bangladesh University of Professionals (2023–2027) 🎓",
-  interests   : ["App Development", "Web Development", "Gaming Content"],
-  project     : "Study Leveling — a gamified study productivity app",
-  platform    : "YouTube @IPlayPES 🎮",
-  status      : "Learning · Building · Improving ⚡",
-  funFact     : "I turn study tasks into missions and code into products 😄"
+  name: "Md. Junayet Hossain Mohit",
+  username: "mdjunayet10",
+  role: "Full-Stack JavaScript Developer | CSE Student",
+  location: "Bangladesh 🇧🇩",
+  education: "BSc. in CSE @ Bangladesh University of Professionals (2023–2027)",
+  primaryStack: [
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "Firebase",
+    "PostgreSQL",
+    "HTML",
+    "CSS"
+  ],
+  focus: "Building full-stack web apps and real-world software products",
+  currentProjects: [
+    "Career Bridge — job and career platform",
+    "Study Leveling — gamified study productivity app"
+  ],
+  status: "Learning · Building · Shipping 🚀",
+  funFact: "I like turning real-life problems into useful software products."
 };
 ```
 
@@ -73,42 +80,102 @@ const MdJunayetHossainMohit = {
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░  CURRENT STATUS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Current Status
 
 ```yaml
-🔭 Currently Working On  : Study Leveling App
-🌱 Currently Learning    : Flutter · Firebase · Full Stack Development
-👯 Looking to Collaborate: App, Web, and Open Source Projects
-💬 Ask Me About          : Flutter · Firebase · C/C++ · Java · Python · Web Development
-🎮 Content Platform      : IPlayPES on YouTube
-⚡ Goal                  : Build useful software and publish real products
+🔭 Currently Working On  : Career Bridge and Study Leveling
+🌱 Currently Learning    : Node.js · Express · Firebase · PostgreSQL · Full-Stack Development
+👯 Looking to Collaborate: JavaScript, Firebase, and full-stack web projects
+💬 Ask Me About          : JavaScript · Node.js · Express · Firebase · Full-Stack Web Apps
+🎯 Main Goal             : Build useful software and publish real products
+🎮 Creative Side         : IPlayPES on YouTube
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░  FEATURED PRODUCT  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 &nbsp;Featured Product
+## 🧭 &nbsp;Primary Stack Focus
 
 <div align="center">
 
-### 🎓 Study Leveling
+My public portfolio is focused on **full-stack JavaScript development**.
 
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Version-v1.0.0-8B5CF6?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Windows-FACC15?style=for-the-badge&labelColor=0D1117">
+<br/>
+
+[![Core Stack](https://skillicons.dev/icons?i=js,nodejs,express,firebase,postgres,prisma,html,css,tailwind,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 <br/><br/>
 
-A gamified study productivity app where students complete study tasks as missions, earn XP and coins, level up, unlock rewards, compete on leaderboards, and use multiplayer study rooms.
+![JavaScript](https://img.shields.io/badge/JavaScript-Core%20Language-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-22C55E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/Express.js-API%20Development-E6EDF3?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-Hosting%20%26%20Realtime-FACC15?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-00E5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![Full Stack](https://img.shields.io/badge/Full--Stack-Web%20Apps-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💼 Career Bridge</h3>
+      <p>
+        A Bangladesh-focused job and career platform connecting job seekers and employers with profiles,
+        job listings, applications, and career features.
+      </p>
+      <p>
+        <b>Stack:</b> JavaScript · Node.js · Express · Prisma · PostgreSQL
+      </p>
+      <img src="https://img.shields.io/badge/Type-Full--Stack%20Web%20App-8B5CF6?style=for-the-badge&labelColor=0D1117">
+      <img src="https://img.shields.io/badge/Focus-Career%20Platform-22C55E?style=for-the-badge&labelColor=0D1117">
+    </td>
+    <td width="50%" align="center">
+      <h3>🎓 Study Leveling</h3>
+      <p>
+        A gamified study productivity app where students complete tasks as missions, earn XP and coins,
+        level up, unlock rewards, and compete with friends.
+      </p>
+      <p>
+        <b>Product Focus:</b> Productivity · Gamification · Leaderboards · Multiplayer
+      </p>
+      <a href="https://study-leveling.web.app">
+        <img src="https://img.shields.io/badge/Live%20App-Open%20Now-22C55E?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117">
+      </a>
+      <a href="https://github.com/mdjunayet10/Study-Leveling-App">
+        <img src="https://img.shields.io/badge/Public%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 &nbsp;Study Leveling
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Version-v1.0.0-8B5CF6?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Desktop-FACC15?style=for-the-badge&labelColor=0D1117">
+
+<br/><br/>
+
+A study game that turns productivity into missions. Students can complete study tasks, earn XP, collect coins, unlock rewards, track progress, and join multiplayer study rooms.
 
 <br/>
 
@@ -132,11 +199,40 @@ A gamified study productivity app where students complete study tasks as mission
   </tr>
 </table>
 
+</div>
+
 <br/>
 
-**Built With**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Study Leveling Stack](https://skillicons.dev/icons?i=flutter,dart,firebase,github,vscode&theme=dark)](https://skillicons.dev)
+## 🧰 &nbsp;What I Build With
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Frontend</h3>
+      <p>HTML, CSS, JavaScript, Tailwind CSS</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Backend</h3>
+      <p>Node.js, Express.js, REST APIs</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Database</h3>
+      <p>PostgreSQL, Prisma, Firebase Realtime Database</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Deployment</h3>
+      <p>Firebase Hosting, GitHub Releases, Netlify</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+[![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,express,firebase,postgres,prisma,html,css,tailwind,git,github,vscode,netlify&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -144,53 +240,32 @@ A gamified study productivity app where students complete study tasks as mission
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+## 📌 &nbsp;Portfolio Direction
 
 <div align="center">
 
-### 💻 Programming Languages
-[![Programming Skills](https://skillicons.dev/icons?i=c,cpp,java,python,dart,js&theme=dark)](https://skillicons.dev)
-
-### 🌐 Web Technologies
-[![Web Skills](https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark)](https://skillicons.dev)
-
-### 📱 App Development
-[![App Skills](https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark)](https://skillicons.dev)
-
-### 🗄️ Database & Backend
-[![Database Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=dark)](https://skillicons.dev)
-
-### 🔧 Tools & Workflow
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,ubuntu&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**⚡ Skill Focus**
-
-![Flutter](https://img.shields.io/badge/Flutter-85%25-00E5FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-80%25-FACC15?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
-![Dart](https://img.shields.io/badge/Dart-80%25-8B5CF6?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-75%25-FACC15?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-70%25-22C55E?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![Web](https://img.shields.io/badge/Web-75%25-00E5FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>1️⃣ Full-Stack Apps</h3>
+      <p>Building complete web products with frontend, backend, database, and deployment.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>2️⃣ Firebase Products</h3>
+      <p>Using Firebase for hosting, realtime features, authentication-ready architecture, and fast deployment.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>3️⃣ Clean UI + Practical UX</h3>
+      <p>Designing apps that are simple, useful, and easy for real users to understand.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -198,7 +273,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="90%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260509-stack-focus"
     alt="GitHub Profile Details"
   />
 
@@ -206,17 +281,17 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260509-stack-focus"
     alt="Top Languages by Repo"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260509-stack-focus"
     alt="Top Languages by Commit"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260504-streak-refresh-1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260509-stack-focus"
     alt="GitHub Stats"
   />
 
@@ -224,7 +299,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="72%"
-    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260504-streak-refresh-1"
+    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260509-stack-focus"
     alt="GitHub Streak Stats"
   />
 
@@ -233,10 +308,6 @@ A gamified study productivity app where students complete study tasks as mission
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░░░  ACHIEVEMENTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🏆 &nbsp;Achievements & Trophies
 
@@ -250,10 +321,6 @@ A gamified study productivity app where students complete study tasks as mission
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░  CONTRIBUTION GRAPH  ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 ## 📈 &nbsp;Contribution Activity
 
 <div align="center">
@@ -266,21 +333,15 @@ A gamified study productivity app where students complete study tasks as mission
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░  YOUTUBE CHANNEL  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🎮 &nbsp;YouTube Channel
+## 🎮 &nbsp;Creative Side
 
 <div align="center">
 
-**IPlayPES**
+### IPlayPES
 
 Gaming • PES • eFootball Content
 
-**Channel Link:** https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_
-
-**Subscriber Count:**  
+[![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://youtube.com/@iplaypesofficial)
 [![YouTube subscriber count](https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?color=FF0000&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge&labelColor=0D1117&cacheSeconds=60)](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_)
 
 </div>
@@ -288,10 +349,6 @@ Gaming • PES • eFootball Content
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🤝 &nbsp;Let's Connect
 
@@ -301,24 +358,6 @@ Gaming • PES • eFootball Content
 [![YouTube](https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://youtube.com/@iplaypesofficial)
 [![Email](https://img.shields.io/badge/Gmail-mithu.bu.bd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mithu.bu.bd@gmail.com)
 
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## 🐍 &nbsp;Watch My Contributions Get Eaten
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-</picture>
 </div>
 
 <br/>
