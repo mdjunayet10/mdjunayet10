@@ -213,13 +213,6 @@ A gamified study productivity app where students complete study tasks as mission
 
 [![Programming Languages](https://skillicons.dev/icons?i=js,c,cpp,java&theme=dark)](https://skillicons.dev)
 
-<br/>
-
-<img src="https://img.shields.io/badge/JavaScript-Main%20Language-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117">
-<img src="https://img.shields.io/badge/C-CS%20Fundamentals-00E5FF?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117">
-<img src="https://img.shields.io/badge/C%2B%2B-Problem%20Solving-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Java-OOP%20Concepts-FACC15?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=0D1117">
-
 <br/><br/>
 
 ### 🌐 Frontend
