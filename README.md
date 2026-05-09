@@ -12,7 +12,7 @@
 <br/>
 
 <!-- ━━━ TYPING ANIMATION ━━━ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=760&lines=Full-Stack+JavaScript+Developer+%E2%9A%A1;Node.js+%7C+Express+%7C+Firebase;Building+Career+Bridge+%F0%9F%92%BC;Building+Study+Leveling+%F0%9F%8E%93;Content+Creator+%40+IPlayPES+%F0%9F%8E%AE;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=760&lines=Full-Stack+Developer+%E2%9A%A1;Node.js+%7C+Express+%7C+Firebase;Building+Career+Bridge+%F0%9F%92%BC;Building+Study+Leveling+%F0%9F%8E%93;Content+Creator+%40+IPlayPES+%F0%9F%8E%AE;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
