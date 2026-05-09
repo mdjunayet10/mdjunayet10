@@ -209,6 +209,21 @@ A gamified study productivity app where students complete study tasks as mission
 
 <div align="center">
 
+### 🚀 Main Stack
+
+[![Main Stack](https://skillicons.dev/icons?i=js,nodejs,express,firebase,postgres,prisma&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-Core%20Language-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Node.js-Backend%20Runtime-22C55E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Express.js-API%20Development-E6EDF3?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Firebase-Hosting%20%26%20Realtime-FACC15?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-00E5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Prisma-ORM-8B5CF6?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117">
+
+<br/><br/>
+
 ### 💻 Programming Languages
 
 [![Programming Languages](https://skillicons.dev/icons?i=js,c,cpp,python,java,dart&theme=dark)](https://skillicons.dev)
