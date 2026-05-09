@@ -211,7 +211,7 @@ A gamified study productivity app where students complete study tasks as mission
 
 ### 💻 Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,c,cpp,python,java&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,c,cpp,python,java,dart&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Frontend
 
