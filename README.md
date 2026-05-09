@@ -241,12 +241,12 @@ A gamified study productivity app where students complete study tasks as mission
 
 **⚡ Skill Focus**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-85%25-22C55E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)
-![Express.js](https://img.shields.io/badge/Express.js-80%25-E6EDF3?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-80%25-FACC15?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-75%25-00E5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Web-85%25-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+<img src="https://img.shields.io/badge/Main%20Focus-Full--Stack%20Web%20Development-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Core%20Language-JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-22C55E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Cloud-Firebase-FACC15?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Database-PostgreSQL%20%2B%20Prisma-00E5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Currently%20Improving-APIs%20%2B%20Database%20Design-E6EDF3?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117">
 
 </div>
 
