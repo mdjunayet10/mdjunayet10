@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB READM
+     MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
      Clean Cyber Dark Theme | Stack-Clarity Optimized
      Focus: JavaScript · Node.js · Express · Firebase · Full-Stack Web
 ════════════════════════════════════════════════════════════════ -->
