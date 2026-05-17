@@ -1,18 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════════
      MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
-     Clean Cyber Dark Theme | Stack-Clarity Optimized
-     Focus: JavaScript · Node.js · Express · Firebase · Full-Stack Web
+     Clean Cyber Dark Theme | Product Portfolio Optimized
+     Focus: Full-Stack Web · Firebase Products · Flutter Apps · Islamic Learning
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ━━━ ANIMATED HEADER BANNER ━━━ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0D1117,35:111827,70:0F172A,100:0D1117&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&animation=twinkling&fontColor=00E5FF&fontSize=44&fontAlignY=38&stroke=8B5CF6&strokeWidth=2&desc=Full-Stack%20JavaScript%20Developer%20%7C%20CSE%20Student%20%7C%20Content%20Creator&descSize=16&descAlignY=62&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0D1117,35:111827,70:0F172A,100:0D1117&text=MD.%20JUNAYET%20HOSSAIN%20MOHIT&section=header&fontAlign=50&animation=twinkling&fontColor=00E5FF&fontSize=44&fontAlignY=38&stroke=8B5CF6&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Product%20Builder&descSize=16&descAlignY=62&descAlign=50"/>
 
 <br/>
 
 <!-- ━━━ TYPING ANIMATION ━━━ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=760&lines=Full-Stack+Developer+%E2%9A%A1;Node.js+%7C+Express+%7C+Firebase;Building+Career+Bridge+%F0%9F%92%BC;Building+Study+Leveling+%F0%9F%8E%93;Content+Creator+%40+IPlayPES+%F0%9F%8E%AE;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=850&lines=Full-Stack+Developer+%E2%9A%A1;Building+IslamQUIZ+%F0%9F%93%96;Building+Career+Bridge+%F0%9F%92%BC;Shipped+Study+Leveling+%F0%9F%8E%93;Creating+Hill+Rider+%F0%9F%8F%8E%EF%B8%8F;Node.js+%7C+Express+%7C+Firebase+%7C+Flutter;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,20 +23,20 @@
 
 <br/><br/>
 
-<!-- ━━━ POLISHED ROLE CARDS ━━━ -->
+<!-- ━━━ ROLE CARDS ━━━ -->
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <h3>💻 Full-Stack Developer</h3>
-      <p>Building clean, practical, and user-friendly web apps for real-world problems.</p>
+      <p>Building practical web apps with frontend, backend, database, and deployment.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🎓 CSE Student</h3>
-      <p>Learning software development, backend systems, databases, and scalable design.</p>
+      <h3>🚀 Product Builder</h3>
+      <p>Turning ideas into real products like IslamQUIZ, Study Leveling, Career Bridge, and Hill Rider.</p>
     </td>
     <td align="center" width="33%">
       <h3>🎬 Content Creator</h3>
-      <p>Sharing tech projects, learning journeys, and useful digital content online.</p>
+      <p>Sharing gaming and digital content through the IPlayPES YouTube channel.</p>
     </td>
   </tr>
 </table>
@@ -45,11 +45,11 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- ░░░░░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
@@ -62,16 +62,21 @@
 const MdJunayetHossainMohit = {
   name        : "Md. Junayet Hossain Mohit",
   username    : "mdjunayet10",
-  role        : "Full-Stack JavaScript Developer | CSE Student | Content Creator 🚀",
+  role        : "Full-Stack Developer | CSE Student | Product Builder 🚀",
   location    : "Bangladesh 🇧🇩",
   education   : "BSc. in CSE @ Bangladesh University of Professionals (2023–2027) 🎓",
-  mainStack   : ["JavaScript", "Node.js", "Express.js", "Firebase", "PostgreSQL"],
-  languages   : ["JavaScript", "C", "C++", "Java"],
-  interests   : ["Full-Stack Web Apps", "Backend APIs", "Product Development", "Gaming Content"],
-  projects    : ["Career Bridge", "Study Leveling"],
+
+  mainStack   : ["JavaScript", "Node.js", "Express.js", "Firebase", "PostgreSQL", "Prisma"],
+  appStack    : ["Flutter", "Dart", "Firebase Hosting"],
+  gameStack   : ["Flutter", "Dart", "Flame"],
+
+  languages   : ["JavaScript", "C", "C++", "Java", "Python", "Dart"],
+  interests   : ["Full-Stack Web Apps", "Backend APIs", "Product Development", "Game Development"],
+
+  products    : ["IslamQUIZ", "Study Leveling", "Career Bridge", "Hill Rider"],
   platform    : "YouTube @IPlayPES 🎮",
   status      : "Learning · Building · Shipping ⚡",
-  funFact     : "I turn ideas into real products and useful digital experiences 😄"
+  goal        : "Build useful software, publish real products, and improve every project step by step"
 };
 ```
 
@@ -89,12 +94,15 @@ const MdJunayetHossainMohit = {
 </h2>
 
 ```yaml
-🔭 Currently Working On  : Career Bridge and Study Leveling
-🌱 Currently Learning    : Node.js · Express · Firebase · PostgreSQL · Full-Stack Development
-👯 Looking to Collaborate: JavaScript, Firebase, and Open Source Web Projects
-💬 Ask Me About          : JavaScript · Node.js · Express · Firebase · Full-Stack Web Apps
+🔭 Currently Working On  : IslamQUIZ, Career Bridge, Study Leveling, and Hill Rider
+📖 Featured Project      : IslamQUIZ — Islamic aqeedah quiz app with evidence references
+🚀 Shipped Product       : Study Leveling — live gamified study productivity app
+💼 Building Platform     : Career Bridge — Bangladesh-focused job and career platform
+🏎️ Game Project          : Hill Rider — original 2D hill-racing game project
+🌱 Currently Improving   : Flutter Apps · Firebase · Backend APIs · Databases · Product UI/UX
+💬 Ask Me About          : JavaScript · Node.js · Express · Firebase · PostgreSQL · Flutter
 🎮 Content Platform      : IPlayPES on YouTube
-⚡ Goal                  : Build useful software and publish real products
+⚡ Goal                  : Build, polish, and publish useful software products
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -105,39 +113,63 @@ const MdJunayetHossainMohit = {
 <!-- ░░░░░░░░░░░░░░  FEATURED PRODUCTS  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<h2 align="center">🚀 &nbsp;Featured Products</h2>
+<h2 align="center">🚀 &nbsp;Featured Projects & Products</h2>
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>💼 Career Bridge</h3>
+      <h3>📖 IslamQUIZ</h3>
       <p>
-        A Bangladesh-focused job and career platform connecting job seekers and employers with profiles,
-        job listings, applications, and career features.
+        A Flutter-based Islamic aqeedah quiz app for learning core beliefs through MCQs,
+        evidence references, simple explanations, mistake review, and English/Bangla support.
       </p>
-      <p>
-        <b>Focus:</b> Full-Stack Web App · Job Platform · Backend APIs
-      </p>
-      <img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge&labelColor=0D1117">
-      <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20Node.js%20%7C%20Express-22C55E?style=for-the-badge&labelColor=0D1117">
+      <p><b>Focus:</b> Islamic Learning · Aqeedah · Flutter · English/Bangla</p>
+      <a href="https://github.com/mdjunayet10/IslamQUIZ">
+        <img src="https://img.shields.io/badge/Featured%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Dart%20%7C%20shared__preferences-22C55E?style=for-the-badge&labelColor=0D1117">
     </td>
     <td align="center" width="50%">
       <h3>🎓 Study Leveling</h3>
       <p>
-        A gamified study productivity app where students complete study tasks as missions, earn XP and coins,
-        level up, unlock rewards, and compete with friends.
+        A gamified study productivity app where students complete study missions, earn XP and coins,
+        level up, unlock rewards, and compete through leaderboards and multiplayer study rooms.
       </p>
-      <p>
-        <b>Focus:</b> Productivity · Gamification · Leaderboards · Multiplayer
-      </p>
+      <p><b>Focus:</b> Productivity · Gamification · Firebase · Multiplayer</p>
       <a href="https://study-leveling.web.app">
         <img src="https://img.shields.io/badge/Live%20App-Open%20Now-22C55E?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117">
       </a>
+      <br/>
       <a href="https://github.com/mdjunayet10/Study-Leveling-App">
         <img src="https://img.shields.io/badge/Public%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💼 Career Bridge</h3>
+      <p>
+        A Bangladesh-focused job and career platform designed to connect job seekers and employers
+        with profiles, job listings, applications, and career/networking features.
+      </p>
+      <p><b>Focus:</b> Job Platform · Backend APIs · PostgreSQL · Prisma</p>
+      <img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge&labelColor=0D1117">
+      <br/>
+      <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Express%20%7C%20Prisma-22C55E?style=for-the-badge&labelColor=0D1117">
+    </td>
+    <td align="center" width="50%">
+      <h3>🏎️ Hill Rider</h3>
+      <p>
+        An original 2D hill-racing game focused on fun vehicle physics, progression, levels,
+        garage upgrades, readable cartoon vehicles, and polished web/mobile gameplay.
+      </p>
+      <p><b>Focus:</b> Game Development · Physics · Levels · Progression</p>
+      <img src="https://img.shields.io/badge/Status-Current%20Build%20Complete-FACC15?style=for-the-badge&labelColor=0D1117">
+      <br/>
+      <img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Dart%20%7C%20Flame-00E5FF?style=for-the-badge&labelColor=0D1117">
     </td>
   </tr>
 </table>
@@ -145,6 +177,60 @@ const MdJunayetHossainMohit = {
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  ISLAMQUIZ  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">📖 &nbsp;IslamQUIZ</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Featured%20Project-22C55E?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Type-Islamic%20Quiz%20App-00E5FF?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20Ready-FACC15?style=for-the-badge&labelColor=0D1117">
+
+<br/><br/>
+
+IslamQUIZ is a Flutter-based Islamic quiz app for learning the foundations of correct aqeedah through
+multiple-choice questions, evidence references from the Qur’an and authentic Sunnah, simple explanations,
+mistake review, local progress tracking, and English/Bangla language support.
+
+<br/>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-IslamQUIZ-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10/IslamQUIZ)
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center"><b>🧠 MCQ Learning</b><br/>Quiz-based aqeedah learning</td>
+    <td align="center"><b>📚 Evidence Cards</b><br/>Qur’an and authentic Sunnah references</td>
+    <td align="center"><b>🌐 English/Bangla</b><br/>Language switch with saved preference</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔁 Mistake Review</b><br/>Review incorrect answers</td>
+    <td align="center"><b>📈 Local Progress</b><br/>XP, level, scores, completed quizzes</td>
+    <td align="center"><b>🕌 Core Beliefs</b><br/>Structured foundations section</td>
+  </tr>
+</table>
+
+<br/>
+
+**App Direction**
+
+<img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Storage-shared__preferences-8B5CF6?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/UI-Premium%20Dark%20Green%20%26%20Gold-FACC15?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Content-Review%20Before%20Public%20Release-E6EDF3?style=for-the-badge&labelColor=0D1117">
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- ░░░░░░░░░░░░░░  STUDY LEVELING  ░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -156,18 +242,18 @@ const MdJunayetHossainMohit = {
 
 <img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge&labelColor=0D1117">
 <img src="https://img.shields.io/badge/Version-v1.0.0-8B5CF6?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Windows-FACC15?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20Desktop-FACC15?style=for-the-badge&labelColor=0D1117">
 
 <br/><br/>
 
-A gamified study productivity app where students complete study tasks as missions, earn XP and coins, level up, unlock rewards, compete on leaderboards, and use multiplayer study rooms.
+A gamified study productivity app where students turn study work into missions, earn XP and coins,
+level up, unlock rewards, compete on a global leaderboard, and study together in multiplayer rooms.
 
 <br/>
 
 [![Live App](https://img.shields.io/badge/Live%20App-Open%20Now-22C55E?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117)](https://study-leveling.web.app)
 [![Public Repo](https://img.shields.io/badge/GitHub-Public%20Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App)
-[![Android Release](https://img.shields.io/badge/Android-APK%20Release-8B5CF6?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
-[![Windows Release](https://img.shields.io/badge/Windows-ZIP%20Release-FACC15?style=for-the-badge&logo=windows&logoColor=black&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
+[![Releases](https://img.shields.io/badge/Releases-Download%20Builds-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/mdjunayet10/Study-Leveling-App/releases)
 
 <br/><br/>
 
@@ -178,7 +264,7 @@ A gamified study productivity app where students complete study tasks as mission
     <td align="center"><b>🪙 Coins</b><br/>Collect coins from progress</td>
   </tr>
   <tr>
-    <td align="center"><b>🏆 Leaderboard</b><br/>Compete with others</td>
+    <td align="center"><b>🏆 Leaderboard</b><br/>Compete globally</td>
     <td align="center"><b>👥 Multiplayer</b><br/>Study with friends</td>
     <td align="center"><b>🎁 Rewards</b><br/>Unlock motivation</td>
   </tr>
@@ -190,7 +276,100 @@ A gamified study productivity app where students complete study tasks as mission
 
 <img src="https://img.shields.io/badge/Productivity-App-00E5FF?style=for-the-badge&labelColor=0D1117">
 <img src="https://img.shields.io/badge/Gamification-XP%20%2B%20Coins-FACC15?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Firebase-Live%20Features-22C55E?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Firebase-Realtime%20Features-22C55E?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Deployment-Firebase%20Hosting-8B5CF6?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117">
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░  CAREER BRIDGE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">💼 &nbsp;Career Bridge</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Type-Job%20%26%20Career%20Platform-00E5FF?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Focus-Bangladesh%20Market-22C55E?style=for-the-badge&labelColor=0D1117">
+
+<br/><br/>
+
+Career Bridge is a job and career platform concept focused on connecting job seekers and employers in Bangladesh.
+The goal is to support profiles, job listings, applications, employer tools, and career/networking features.
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center"><b>👤 Job Seeker Profiles</b><br/>Career identity and user profiles</td>
+    <td align="center"><b>🏢 Employer Tools</b><br/>Company and recruiter features</td>
+    <td align="center"><b>📌 Job Listings</b><br/>Post, browse, and manage jobs</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📄 Applications</b><br/>Apply and track opportunities</td>
+    <td align="center"><b>🔎 Search & Filters</b><br/>Discover relevant jobs faster</td>
+    <td align="center"><b>🌐 Career Network</b><br/>Build professional connections</td>
+  </tr>
+</table>
+
+<br/>
+
+**Tech Direction**
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-FACC15?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-22C55E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Prisma-00E5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117">
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ░░░░░░░░░░░░░░░░  HILL RIDER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">🏎️ &nbsp;Hill Rider</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Current%20Build%20Complete-FACC15?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Type-2D%20Hill%20Racing%20Game-00E5FF?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Platform-Web%20First-22C55E?style=for-the-badge&labelColor=0D1117">
+
+<br/><br/>
+
+Hill Rider is an original 2D hill-racing game project focused on readable vehicles, fun physics,
+level progression, garage upgrades, collectibles, fuel management, and polished gameplay for web first.
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center"><b>🛞 Vehicle Physics</b><br/>Gas, brake, suspension, jumps</td>
+    <td align="center"><b>🗺️ Level Progression</b><br/>Maps, goals, unlocks, distance targets</td>
+    <td align="center"><b>🪙 Collectibles</b><br/>Coins, fuel, rewards, upgrades</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚗 Garage</b><br/>Vehicle variety and upgrades</td>
+    <td align="center"><b>🎮 Web Gameplay</b><br/>Keyboard and mobile-friendly controls</td>
+    <td align="center"><b>🔊 SFX Only</b><br/>Engine, coin, landing, crash sounds</td>
+  </tr>
+</table>
+
+<br/>
+
+**Game Direction**
+
+<img src="https://img.shields.io/badge/Style-Golden%20Mountain%20Day%20Ride-FACC15?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Dart%20%7C%20Flame-00E5FF?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Release-Firebase%20or%20Netlify%20Ready-22C55E?style=for-the-badge&labelColor=0D1117">
 
 </div>
 
@@ -212,6 +391,10 @@ A gamified study productivity app where students complete study tasks as mission
 ### 🚀 Main Stack
 
 [![Main Stack](https://skillicons.dev/icons?i=js,nodejs,express,firebase,postgres,prisma&theme=dark)](https://skillicons.dev)
+
+### 📱 App & Game Development
+
+[![App Game Stack](https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark)](https://skillicons.dev)
 
 ### 💻 Programming Languages
 
@@ -246,7 +429,9 @@ A gamified study productivity app where students complete study tasks as mission
 <img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-22C55E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117">
 <img src="https://img.shields.io/badge/Cloud-Firebase-FACC15?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117">
 <img src="https://img.shields.io/badge/Database-PostgreSQL%20%2B%20Prisma-00E5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Currently%20Improving-APIs%20%2B%20Database%20Design-E6EDF3?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/App%20Dev-Flutter%20%2B%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Islamic%20Learning-IslamQUIZ-22C55E?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Currently%20Improving-Apps%20%2B%20Product%20Polish-E6EDF3?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117">
 
 </div>
 
@@ -270,11 +455,25 @@ A gamified study productivity app where students complete study tasks as mission
     </td>
     <td align="center" width="33%">
       <h3>⚙️ Backend APIs</h3>
-      <p>Creating practical server-side features using Node.js, Express, and database tools.</p>
+      <p>Creating practical server-side features using Node.js, Express, Prisma, and PostgreSQL.</p>
     </td>
     <td align="center" width="33%">
       <h3>🔥 Firebase Products</h3>
       <p>Using Firebase for hosting, realtime features, and fast product deployment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Flutter & Learning Apps</h3>
+      <p>Developing cross-platform apps like IslamQUIZ with clean UI, local state, and release-ready builds.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎮 Game Development</h3>
+      <p>Creating original 2D games with physics, progression, upgrades, and polished controls.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Product Shipping</h3>
+      <p>Taking projects from idea to build, deployment, release notes, GitHub releases, and public portfolio.</p>
     </td>
   </tr>
 </table>
@@ -295,7 +494,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="90%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260509-stack-clarity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjunayet10&theme=github_dark&v=20260518-islamquiz-featured"
     alt="GitHub Profile Details"
   />
 
@@ -303,17 +502,17 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260509-stack-clarity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunayet10&theme=github_dark&v=20260518-islamquiz-featured"
     alt="Top Languages by Repo"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260509-stack-clarity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunayet10&theme=github_dark&v=20260518-islamquiz-featured"
     alt="Top Languages by Commit"
   />
   <img
     width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260509-stack-clarity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunayet10&theme=github_dark&v=20260518-islamquiz-featured"
     alt="GitHub Stats"
   />
 
@@ -321,7 +520,7 @@ A gamified study productivity app where students complete study tasks as mission
 
   <img
     width="72%"
-    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260509-stack-clarity"
+    src="https://streak-stats.demolab.com?user=mdjunayet10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=FACC15&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FACC15&sideNums=E6EDF3&dates=8B949E&v=20260518-islamquiz-featured"
     alt="GitHub Streak Stats"
   />
 
@@ -375,10 +574,10 @@ A gamified study productivity app where students complete study tasks as mission
 
 Gaming • PES • eFootball Content
 
-**Channel Link:** https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_
+**Channel Link:** https://youtube.com/@iplaypesofficial
 
 **Subscriber Count:**  
-[![YouTube subscriber count](https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?color=FF0000&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge&labelColor=0D1117&cacheSeconds=60)](https://youtube.com/@iplaypesofficial?si=UPAKgEX7OOLlRp9_)
+[![YouTube subscriber count](https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?color=FF0000&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge&labelColor=0D1117&cacheSeconds=60)](https://youtube.com/@iplaypesofficial)
 
 </div>
 
@@ -403,16 +602,16 @@ Gaming • PES • eFootball Content
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <h2 align="center">🐍 &nbsp;Watch My Contributions Get Eaten</h2>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake.svg">
 </picture>
 </div>
 
