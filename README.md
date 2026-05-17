@@ -94,15 +94,14 @@ const MdJunayetHossainMohit = {
 </h2>
 
 ```yaml
-🔭 Currently Working On  : IslamQUIZ, Career Bridge, Study Leveling, and Hill Rider
-📖 Featured Project      : IslamQUIZ — Islamic aqeedah quiz app with evidence references
-🚀 Shipped Product       : Study Leveling — live gamified study productivity app
-💼 Building Platform     : Career Bridge — Bangladesh-focused job and career platform
-🏎️ Game Project          : Hill Rider — original 2D hill-racing game project
-🌱 Currently Improving   : Flutter Apps · Firebase · Backend APIs · Databases · Product UI/UX
-💬 Ask Me About          : JavaScript · Node.js · Express · Firebase · PostgreSQL · Flutter
-🎮 Content Platform      : IPlayPES on YouTube
-⚡ Goal                  : Build, polish, and publish useful software products
+📖 Featured Active Project : IslamQUIZ — Islamic aqeedah quiz app with evidence references
+🚀 Shipped Product         : Study Leveling — live gamified study productivity app
+💼 In Development          : Career Bridge — Bangladesh-focused job discovery and hiring platform
+🏎️ Game Project            : Hill Rider — original 2D hill-racing game, current build completed for now
+🌱 Currently Improving     : Flutter Apps · Firebase · Backend APIs · Databases · Product UI/UX
+💬 Ask Me About            : JavaScript · Node.js · Express · Firebase · PostgreSQL · Flutter
+🎮 Content Platform        : IPlayPES on YouTube
+⚡ Goal                    : Build, polish, and publish useful software products
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -152,10 +151,14 @@ const MdJunayetHossainMohit = {
     <td align="center" width="50%">
       <h3>💼 Career Bridge</h3>
       <p>
-        A Bangladesh-focused job and career platform designed to connect job seekers and employers
-        with profiles, job listings, applications, and career/networking features.
+        A Bangladesh-focused job discovery and hiring platform with job search, salary insights,
+        employer posting, CV applications, saved jobs, application review, and admin moderation.
       </p>
       <p><b>Focus:</b> Job Platform · Backend APIs · PostgreSQL · Prisma</p>
+      <a href="https://github.com/mdjunayet10/Career-Bridge">
+        <img src="https://img.shields.io/badge/Public%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
+      </a>
+      <br/>
       <img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge&labelColor=0D1117">
       <br/>
       <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Express%20%7C%20Prisma-22C55E?style=for-the-badge&labelColor=0D1117">
@@ -369,7 +372,7 @@ level progression, garage upgrades, collectibles, fuel management, and polished 
 
 <img src="https://img.shields.io/badge/Style-Golden%20Mountain%20Day%20Ride-FACC15?style=for-the-badge&labelColor=0D1117">
 <img src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Dart%20%7C%20Flame-00E5FF?style=for-the-badge&labelColor=0D1117">
-<img src="https://img.shields.io/badge/Release-Firebase%20or%20Netlify%20Ready-22C55E?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/Planned%20Web%20Release-Firebase%20or%20Netlify-22C55E?style=for-the-badge&labelColor=0D1117">
 
 </div>
 
@@ -609,9 +612,9 @@ Gaming • PES • eFootball Content
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/output/github-snake.svg">
 </picture>
 </div>
 
