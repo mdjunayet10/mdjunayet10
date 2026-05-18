@@ -18,6 +18,7 @@
 
 <!-- ━━━ BADGES ROW ━━━ -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mdjunayet10&label=Profile+Views&color=00E5FF&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://mdjunayet10.github.io/mdjunayet10/)
 [![GitHub followers](https://img.shields.io/github/followers/mdjunayet10?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/mdjunayet10?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/mdjunayet10?label=Total%20Stars&style=for-the-badge&color=FACC15&logo=github&logoColor=black)](https://github.com/mdjunayet10)
 
