@@ -342,15 +342,10 @@ const MdJunayetHossainMohit = {
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <h2 align="center">🏆 &nbsp;Achievements & Trophies</h2>
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdjunayet10&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6"/>
-
+<img src="https://github-trophies.vercel.app/?username=mdjunayet10&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 </div>
-
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
