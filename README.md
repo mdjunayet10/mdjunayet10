@@ -2,7 +2,7 @@
      MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
      Clean Cyber Dark Theme | Product Portfolio Optimized
      Focus: Full-Stack Web · Firebase Products · Flutter Apps · Islamic Learning
-════════════════════════════════════════════════════════════════ -->
+════════════════════════════════════════════════════════════════ --
 
 <div align="center">
 
