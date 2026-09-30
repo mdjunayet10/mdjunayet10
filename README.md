@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB README
+     MD. JUNAYET HOSSAIN MOHIT — PREMIUM GITHUB READM
      Clean Cyber Dark Theme | Product Portfolio Optimized
      Focus: Full-Stack Web · Firebase Products · Flutter Apps · Islamic Learning
 ════════════════════════════════════════════════════════════════ -->
