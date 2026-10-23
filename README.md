@@ -242,7 +242,11 @@ const MdJunayetHossainMohit = {
 
 <h2 align="center">📈 &nbsp;Contribution Activity</h2>
 <div align="center">
-<img width="95%" alt="GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=mdjunayet10&amp;bg_color=0D1117&amp;color=E6EDF3&amp;title_color=00E5FF&amp;line=8B5CF6&amp;point=FACC15&amp;area=true&amp;hide_border=true&amp;area_color=8B5CF630&amp;radius=12"/>
+<!-- Replacement for the paused github-readme-activity-graph.vercel.app endpoint. -->
+<a href="https://github.com/mdjunayet10?tab=overview">
+  <img width="95%" alt="GitHub contribution calendar for mdjunayet10" src="https://ghchart.rshah.org/8B5CF6/mdjunayet10"/>
+</a>
+<p><a href="https://github.com/mdjunayet10?tab=overview">View contribution activity on GitHub ↗</a></p>
 </div>
 
 <br/>
@@ -259,7 +263,10 @@ const MdJunayetHossainMohit = {
 <p><b>Channel Link:</b> <a href="https://youtube.com/@iplaypesofficial">youtube.com/@iplaypesofficial</a></p>
 
 <p><b>Subscriber Count:</b></p>
-<a href="https://youtube.com/@iplaypesofficial"><img alt="YouTube subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCw3J_tpKsFmVPVbWXcKqD_g?color=FF0000&amp;label=Subscribers&amp;logo=youtube&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=0D1117&amp;cacheSeconds=60"/></a>
+<!-- Static milestone badge: intentionally not a live subscriber counter. -->
+<a href="https://youtube.com/@iplaypesofficial">
+  <img alt="IPlayPES: 100K+ YouTube subscribers" src="https://img.shields.io/badge/YouTube-100K%2B%20Subscribers-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117"/>
+</a>
 
 </div>
 
