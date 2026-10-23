@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ORIGINAL BADGES -->
-<a href="https://hits.sh/github.com/mdjunayet10/mdjunayet10/"><img alt="Profile views" src="https://hits.sh/github.com/mdjunayet10/mdjunayet10.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=00E5FF&amp;labelColor=0D1117"/></a>
+<a href="https://hits.sh/github.com/mdjunayet10/mdjunayet10/"><img alt="Profile views" src="https://hits.sh/github.com/mdjunayet10/mdjunayet10.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=00E5FF&amp;labelColor=0D1117&amp;extraCount=1300"/></a>
 <a href="https://md-junayet-portfolio.web.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Now-00E5FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=0D1117"/></a>
 <a href="https://github.com/mdjunayet10?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mdjunayet10?label=Followers&amp;style=for-the-badge&amp;color=181717&amp;logo=github&amp;logoColor=white"/></a>
 <a href="https://github.com/mdjunayet10"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mdjunayet10?label=Total%20Stars&amp;style=for-the-badge&amp;color=FACC15&amp;logo=github&amp;logoColor=black"/></a>
