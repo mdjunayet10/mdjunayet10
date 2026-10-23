@@ -1,0 +1,36 @@
+
+name: Update Contribution Activity Graph
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate neon contribution line graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTIVITY_USERNAME: mdjunayet10
+        run: python scripts/generate_activity_graph.py
+
+      - name: Commit generated graph
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-activity-graph.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh contribution activity graph'
+            git push
+          fi
