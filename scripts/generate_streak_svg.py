@@ -1,244 +1,152 @@
-import datetime as dt
-import html
+#!/usr/bin/env python3
+"""Generate a dark neon GitHub 31-day contribution line/area SVG.
+
+Uses GitHub's contribution calendar via the official GraphQL API.
+No third-party image host or non-standard Python packages required.
+"""
+
+from __future__ import annotations
+
 import json
 import os
-import pathlib
-import urllib.request
+from datetime import datetime, timedelta, timezone
+from html import escape
+from pathlib import Path
+from urllib.request import Request, urlopen
+
+USERNAME = os.environ.get("GITHUB_ACTIVITY_USERNAME", "mdjunayet10")
+TOKEN = os.environ.get("GITHUB_TOKEN", "")
+OUTPUT = Path("assets/github-activity-graph.svg")
 
 
-USERNAME = os.environ.get("USERNAME", "mdjunayet10")
-TOKEN = os.environ.get("GH_PAT") or os.environ.get("GITHUB_TOKEN")
-
-OUTPUT_PATH = pathlib.Path("assets/streak.svg")
-
-
-def graphql_request(query, variables):
+def fetch_daily_counts(today):
     if not TOKEN:
-        raise RuntimeError("Missing GITHUB_TOKEN or GH_PAT.")
+        raise RuntimeError("GITHUB_TOKEN is required; run this using the provided GitHub Actions workflow")
 
-    payload = json.dumps(
-        {
-            "query": query,
-            "variables": variables,
+    first_day = today - timedelta(days=30)
+    query = """query($login: String!, $from: DateTime!, $to: DateTime!) {
+      user(login: $login) {
+        contributionsCollection(from: $from, to: $to) {
+          contributionCalendar {
+            weeks { contributionDays { date contributionCount } }
+          }
         }
-    ).encode("utf-8")
-
-    request = urllib.request.Request(
+      }
+    }"""
+    payload = json.dumps({
+        "query": query,
+        "variables": {
+            "login": USERNAME,
+            "from": first_day.isoformat() + "T00:00:00Z",
+            "to": today.isoformat() + "T23:59:59Z",
+        },
+    }).encode("utf-8")
+    request = Request(
         "https://api.github.com/graphql",
         data=payload,
         headers={
             "Authorization": f"Bearer {TOKEN}",
             "Content-Type": "application/json",
-            "User-Agent": "github-streak-svg-generator",
+            "User-Agent": "github-profile-activity-svg",
+            "Accept": "application/vnd.github+json",
         },
         method="POST",
     )
+    with urlopen(request, timeout=40) as response:
+        result = json.load(response)
+    if result.get("errors"):
+        raise RuntimeError(f"GitHub GraphQL query failed: {result['errors']}")
+    user = (result.get("data") or {}).get("user")
+    if not user:
+        raise RuntimeError(f"GitHub user {USERNAME!r} not found or could not be read")
 
-    with urllib.request.urlopen(request, timeout=30) as response:
-        data = json.loads(response.read().decode("utf-8"))
-
-    if "errors" in data:
-        raise RuntimeError(json.dumps(data["errors"], indent=2))
-
-    return data["data"]
-
-
-def get_user_created_at():
-    query = """
-    query($login: String!) {
-      user(login: $login) {
-        createdAt
-      }
-    }
-    """
-
-    data = graphql_request(query, {"login": USERNAME})
-    created_at = data["user"]["createdAt"]
-    return dt.datetime.fromisoformat(created_at.replace("Z", "+00:00")).date()
-
-
-def get_contribution_counts(start_date, end_date):
-    query = """
-    query($login: String!, $from: DateTime!, $to: DateTime!) {
-      user(login: $login) {
-        contributionsCollection(from: $from, to: $to) {
-          contributionCalendar {
-            weeks {
-              contributionDays {
-                date
-                contributionCount
-              }
-            }
-          }
-        }
-      }
-    }
-    """
-
+    calendar = user["contributionsCollection"]["contributionCalendar"]
     counts = {}
+    for week in calendar["weeks"]:
+        for day in week["contributionDays"]:
+            counts[day["date"]] = int(day["contributionCount"])
 
-    current_start = start_date
-    while current_start <= end_date:
-        current_end = min(current_start + dt.timedelta(days=365), end_date)
-
-        variables = {
-            "login": USERNAME,
-            "from": f"{current_start.isoformat()}T00:00:00Z",
-            "to": f"{current_end.isoformat()}T23:59:59Z",
-        }
-
-        data = graphql_request(query, variables)
-        weeks = data["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
-
-        for week in weeks:
-            for day in week["contributionDays"]:
-                day_date = dt.date.fromisoformat(day["date"])
-                if start_date <= day_date <= end_date:
-                    counts[day_date] = day["contributionCount"]
-
-        current_start = current_end + dt.timedelta(days=1)
-
-    return counts
+    dates = [first_day + timedelta(days=i) for i in range(31)]
+    return dates, [counts.get(day.isoformat(), 0) for day in dates]
 
 
-def date_range(start_date, end_date):
-    current = start_date
-    while current <= end_date:
-        yield current
-        current += dt.timedelta(days=1)
+def svg_path(points):
+    """A smooth Catmull-Rom-like curve through the actual daily points."""
+    commands = [f"M {points[0][0]:.2f} {points[0][1]:.2f}"]
+    for i in range(len(points) - 1):
+        prev = points[max(i - 1, 0)]
+        curr = points[i]
+        nxt = points[i + 1]
+        future = points[min(i + 2, len(points) - 1)]
+        # Limit control-point y to the segment's range to prevent exaggerated spikes.
+        control1y = curr[1] + (nxt[1] - prev[1]) / 6
+        control2y = nxt[1] - (future[1] - curr[1]) / 6
+        low, high = sorted([curr[1], nxt[1]])
+        control1y = min(max(control1y, low), high)
+        control2y = min(max(control2y, low), high)
+        dx = (nxt[0] - curr[0]) / 3
+        commands.append(
+            f"C {curr[0]+dx:.2f} {control1y:.2f}, "
+            f"{nxt[0]-dx:.2f} {control2y:.2f}, {nxt[0]:.2f} {nxt[1]:.2f}"
+        )
+    return " ".join(commands)
 
 
-def format_date(date_value):
-    if date_value is None:
-        return "-"
-    return f"{date_value.strftime('%b')} {date_value.day}"
-
-
-def calculate_current_streak(counts, today):
-    if counts.get(today, 0) > 0:
-        streak_end = today
-    elif counts.get(today - dt.timedelta(days=1), 0) > 0:
-        streak_end = today - dt.timedelta(days=1)
-    else:
-        return 0, None, None
-
-    streak_start = streak_end
-    streak_count = 0
-    current = streak_end
-
-    while counts.get(current, 0) > 0:
-        streak_count += 1
-        streak_start = current
-        current -= dt.timedelta(days=1)
-
-    return streak_count, streak_start, streak_end
-
-
-def calculate_longest_streak(counts, start_date, end_date):
-    best_count = 0
-    best_start = None
-    best_end = None
-
-    current_count = 0
-    current_start = None
-
-    for day in date_range(start_date, end_date):
-        if counts.get(day, 0) > 0:
-            if current_count == 0:
-                current_start = day
-            current_count += 1
-
-            if current_count > best_count:
-                best_count = current_count
-                best_start = current_start
-                best_end = day
-        else:
-            current_count = 0
-            current_start = None
-
-    return best_count, best_start, best_end
-
-
-def make_svg(total, current_streak, current_start, current_end, longest_streak, longest_start, longest_end):
-    username = html.escape(USERNAME)
-
-    current_range = f"{format_date(current_start)} - {format_date(current_end)}"
-    longest_range = f"{format_date(longest_start)} - {format_date(longest_end)}"
-
-    return f"""<svg width="760" height="300" viewBox="0 0 760 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="760" height="300" rx="18" fill="#050810"/>
-
-  <text x="380" y="42" text-anchor="middle" fill="#06D6DB" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
-    GitHub Streak Stats
-  </text>
-
-  <text x="380" y="70" text-anchor="middle" fill="#8A8FBD" font-family="Arial, Helvetica, sans-serif" font-size="13">
-    @{username}
-  </text>
-
-  <line x1="253" y1="100" x2="253" y2="245" stroke="#06D6DB" stroke-opacity="0.8"/>
-  <line x1="506" y1="100" x2="506" y2="245" stroke="#06D6DB" stroke-opacity="0.8"/>
-
-  <text x="126" y="140" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">
-    {total}
-  </text>
-  <text x="126" y="178" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">
-    Total Contributions
-  </text>
-  <text x="126" y="210" text-anchor="middle" fill="#8A8FBD" font-family="Arial, Helvetica, sans-serif" font-size="15">
-    All Time
-  </text>
-
-  <circle cx="380" cy="142" r="54" stroke="#7C6FFF" stroke-width="8"/>
-  <text x="380" y="154" text-anchor="middle" fill="#FF61DC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">
-    {current_streak}
-  </text>
-  <text x="380" y="210" text-anchor="middle" fill="#06D6DB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
-    Current Streak
-  </text>
-  <text x="380" y="238" text-anchor="middle" fill="#8A8FBD" font-family="Arial, Helvetica, sans-serif" font-size="15">
-    {current_range}
-  </text>
-
-  <text x="633" y="140" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">
-    {longest_streak}
-  </text>
-  <text x="633" y="178" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">
-    Longest Streak
-  </text>
-  <text x="633" y="210" text-anchor="middle" fill="#8A8FBD" font-family="Arial, Helvetica, sans-serif" font-size="15">
-    {longest_range}
-  </text>
-</svg>
-"""
+def render_svg(dates, counts):
+    width, height = 1120, 330
+    left, right, top, bottom = 74, 25, 64, 275
+    plot_w = width - left - right
+    plot_h = bottom - top
+    peak = max(counts)
+    # Convenient integer tick heights, with room above the highest value.
+    step = max(1, (peak + 3) // 4)
+    max_y = max(4, step * 4)
+    points = [
+        (left + i * plot_w / 30, bottom - min(n, max_y) * plot_h / max_y)
+        for i, n in enumerate(counts)
+    ]
+    curve = svg_path(points)
+    area = curve + f" L {points[-1][0]:.2f} {bottom} L {points[0][0]:.2f} {bottom} Z"
+    parts = [f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">
+<title id="title">GitHub Contribution Activity — {escape(USERNAME)}</title>
+<desc id="desc">Daily GitHub contribution counts for the past 31 days shown as a purple line with yellow points on a dark background. Data updated {dates[-1].isoformat()} UTC.</desc>
+<defs>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.31"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.025"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+    <feGaussianBlur stdDeviation="4"/>
+  </filter>
+</defs>
+<rect width="{width}" height="{height}" rx="12" fill="#0D1117"/>
+<text x="74" y="35" font-size="18" font-weight="700" fill="#00E5FF" font-family="Arial, sans-serif">GitHub Contribution Activity</text>
+<text x="1043" y="34" text-anchor="end" font-size="12" fill="#8B949E" font-family="Arial, sans-serif">LAST 31 DAYS</text>"""]
+    for i in range(5):
+        value = i * step
+        y = bottom - value * plot_h / max_y
+        parts.append(f'<line x1="{left}" x2="{width-right}" y1="{y:.2f}" y2="{y:.2f}" stroke="#283344" stroke-width="1" stroke-dasharray="4 5"/>')
+        parts.append(f'<text x="{left-17}" y="{y+4:.2f}" text-anchor="end" font-size="12" fill="#8B949E" font-family="Arial, sans-serif">{value}</text>')
+    for i in (0, 5, 10, 15, 20, 25, 30):
+        x, _ = points[i]
+        label = escape(dates[i].strftime("%b %d"))
+        parts.append(f'<text x="{x:.2f}" y="{bottom+25}" text-anchor="middle" font-size="12" fill="#8B949E" font-family="Arial, sans-serif">{label}</text>')
+    parts.append(f'<path d="{area}" fill="url(#area)"/>')
+    parts.append(f'<path d="{curve}" fill="none" stroke="#8B5CF6" stroke-width="8" opacity="0.20" filter="url(#glow)"/>')
+    parts.append(f'<path d="{curve}" fill="none" stroke="#8B5CF6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>')
+    for x, y in points:
+        parts.append(f'<circle cx="{x:.2f}" cy="{y:.2f}" r="3.8" fill="#FACC15" stroke="#0D1117" stroke-width="1.4"/>')
+    parts.append(f'<text x="{width-right}" y="{height-10}" text-anchor="end" font-size="11" fill="#768390" font-family="Arial, sans-serif">Updated daily via GitHub Actions</text>')
+    parts.append('</svg>')
+    return "\n".join(parts) + "\n"
 
 
 def main():
-    today = dt.datetime.now(dt.timezone.utc).date()
-    created_at = get_user_created_at()
-
-    counts = get_contribution_counts(created_at, today)
-
-    total = sum(counts.values())
-    current_streak, current_start, current_end = calculate_current_streak(counts, today)
-    longest_streak, longest_start, longest_end = calculate_longest_streak(counts, created_at, today)
-
-    svg = make_svg(
-        total=total,
-        current_streak=current_streak,
-        current_start=current_start,
-        current_end=current_end,
-        longest_streak=longest_streak,
-        longest_start=longest_start,
-        longest_end=longest_end,
-    )
-
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_PATH.write_text(svg, encoding="utf-8")
-
-    print(f"Generated {OUTPUT_PATH}")
-    print(f"Current streak: {current_streak}")
-    print(f"Current range: {format_date(current_start)} - {format_date(current_end)}")
+    today = datetime.now(timezone.utc).date()
+    dates, counts = fetch_daily_counts(today)
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT.write_text(render_svg(dates, counts), encoding="utf-8")
+    print(f"Wrote {OUTPUT} ({sum(counts)} public/profile-visible contributions in 31 days)")
 
 
 if __name__ == "__main__":
