@@ -1,7 +1,11 @@
-
 name: Update Contribution Activity Graph
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_activity_graph.py
+      - .github/workflows/update-activity-graph.yml
   schedule:
     - cron: '23 3 * * *'
   workflow_dispatch:
@@ -9,9 +13,15 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-activity-graph
+  cancel-in-progress: false
+
 jobs:
   update-activity-graph:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - uses: actions/checkout@v4
 
