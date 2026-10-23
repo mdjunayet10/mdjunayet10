@@ -68,6 +68,16 @@ An original 2D hill-racing game featuring arcade vehicle physics, mountain stage
 
 I create gaming content on **[IPlayPES](https://youtube.com/@iplaypesofficial)**, primarily focused on eFootball.
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  </picture>
+</div>
+
 ## Let's Connect
 
 Take a look at my [portfolio](https://md-junayet-portfolio.web.app), explore my [GitHub repositories](https://github.com/mdjunayet10?tab=repositories), or follow my work on [YouTube](https://youtube.com/@iplaypesofficial).
