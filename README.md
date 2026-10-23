@@ -242,13 +242,13 @@ const MdJunayetHossainMohit = {
 
 <h2 align="center">📈 &nbsp;Contribution Activity</h2>
 <div align="center">
-<!-- Replacement for the paused github-readme-activity-graph.vercel.app endpoint. -->
-<a href="https://github.com/mdjunayet10?tab=overview">
-  <img width="95%" alt="GitHub contribution calendar for mdjunayet10" src="https://ghchart.rshah.org/8B5CF6/mdjunayet10"/>
-</a>
-<p><a href="https://github.com/mdjunayet10?tab=overview">View contribution activity on GitHub ↗</a></p>
-</div>
 
+<!-- Original neon line + area graph look, generated daily by GitHub Actions. -->
+<a href="https://github.com/mdjunayet10?tab=overview">
+  <img width="95%" alt="GitHub contribution activity — neon purple line graph with yellow points" src="https://raw.githubusercontent.com/mdjunayet10/mdjunayet10/main/assets/github-activity-graph.svg"/>
+</a>
+
+</div>
 <br/>
 
 <img alt="Section divider" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
