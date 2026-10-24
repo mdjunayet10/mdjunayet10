@@ -279,7 +279,7 @@ const MdJunayetHossainMohit = {
 <a href="https://md-junayet-portfolio.web.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00E5FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white&amp;labelColor=0D1117"/></a>
 <a href="https://github.com/mdjunayet10"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-mdjunayet10-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0D1117"/></a>
 <a href="https://youtube.com/@iplaypesofficial"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-IPlayPES-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=0D1117"/></a>
-<a href="mailto:mithu.bu.bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-mithu.bu.bd%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117"/></a>
+<a href="mailto:mithu.bu.bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-business%40iplaypes.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0D1117"/></a>
 </div>
 
 <br/>
