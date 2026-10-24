@@ -223,7 +223,7 @@ const MdJunayetHossainMohit = {
 
 <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=00E5FF&amp;ring=8B5CF6&amp;fire=FACC15&amp;currStreakLabel=00E5FF&amp;sideLabels=E6EDF3&amp;currStreakNum=FACC15&amp;sideNums=E6EDF3&amp;dates=8B949E" alt="GitHub Streak Stats"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=mdjunayet10&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=00E5FF&amp;ring=8B5CF6&amp;fire=FACC15&amp;currStreakLabel=00E5FF&amp;sideLabels=E6EDF3&amp;currStreakNum=FACC15&amp;sideNums=E6EDF3&amp;dates=8B949E&amp;timezone=Asia%2FDhaka&amp;v=20261024-dhaka" alt="GitHub Streak Stats"/>
 
 </div>
 
