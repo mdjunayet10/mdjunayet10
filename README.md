@@ -1,5 +1,5 @@
 <!--
-  MD. JUNAYET HOSSAIN MOHIT — GITHUB PROFIL
+  MD. JUNAYET HOSSAIN MOHIT — GITHUB PROFILE
   Original cyber-dark visual style preserved.
   Only markup compatibility and outdated project details adjusted.
 -->
